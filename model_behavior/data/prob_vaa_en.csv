@@ -1,0 +1,957 @@
+ID,statement,policy_domain,country_code,statement_id,code,language_code,unique_id,original,paraphrase,adversarial,negation,opposite,translated
+nl_1_1000001_en,Organizers of events should be able to request a vaccination certificate upon entry.,health,nl,1,1000001,en,nl1,True,False,False,False,False,translated
+nl_2_1000001_en,The Netherlands should spend more money on defense.,security_armed_forces,nl,2,1000001,en,nl2,True,False,False,False,False,translated
+nl_3_1000011_en,Childcare should be free for all parents for at least three days a week.,welfare_state_family,nl,3,1000011,en,nl3,True,False,False,False,False,translated
+nl_4_1000001_en,The Netherlands should exit the European Union (EU).,foreign_relations,nl,4,1000001,en,nl4,True,False,False,False,False,translated
+nl_5_1000011_en,"Instead of the tax on car ownership, there should be a tax per kilometer driven for motorists.",finance_taxes,nl,5,1000011,en,nl5,True,False,False,False,False,translated
+nl_6_1000001_en,"During the upcoming New Year's Eve, it should be allowed to set off decorative fireworks again.",society_ethics,nl,6,1000001,en,nl6,True,False,False,False,False,translated
+nl_7_1000011_en,There should be an additional tax on purchasing meat.,finance_taxes,nl,7,1000011,en,nl7,True,False,False,False,False,translated
+nl_8_1000011_en,Less funding should go to public broadcasting.,democracy_media_digit,nl,8,1000011,en,nl8,True,False,False,False,False,translated
+nl_9_1000001_en,"Instead of the existing health insurance companies, there should be a national healthcare fund for everyone.",health,nl,9,1000001,en,nl9,True,False,False,False,False,translated
+nl_10_1000001_en,The government should abolish the ban on face-covering clothing.,society_ethics,nl,10,1000001,en,nl10,True,False,False,False,False,translated
+nl_11_1000001_en,"The national government, rather than provinces and municipalities, should decide where new residential areas are built.",democracy_media_digit,nl,11,1000001,en,nl11,True,False,False,False,False,translated
+nl_12_1000001_en,The government should reduce the VAT on cultural activities to 5 percent.,finance_taxes,nl,12,1000001,en,nl12,True,False,False,False,False,translated
+nl_13_1000001_en,The Netherlands should build a new nuclear power plant.,energy_transportation,nl,13,1000001,en,nl13,True,False,False,False,False,translated
+nl_14_1000011_en,Houses should be built on land currently used for agriculture.,economy_labor,nl,14,1000011,en,nl14,True,False,False,False,False,translated
+nl_15_1000001_en,"Households with two partners, one of whom works, should receive the same tax benefits as households with two working partners.",welfare_state_family,nl,15,1000001,en,nl15,True,False,False,False,False,translated
+nl_16_1000001_en,The Dutch government should apologize for the historical slave trade.,society_ethics,nl,16,1000001,en,nl16,True,False,False,False,False,translated
+nl_17_1000011_en,Citizens should have the opportunity to block laws passed by parliament through a referendum.,democracy_media_digit,nl,17,1000011,en,nl17,True,False,False,False,False,translated
+nl_18_1000011_en,Primary school teachers should earn as much as secondary school teachers.,education,nl,18,1000011,en,nl18,True,False,False,False,False,translated
+nl_19_1000011_en,There should be fewer options for community service sentences instead of prison sentences.,security_armed_forces,nl,19,1000011,en,nl19,True,False,False,False,False,translated
+nl_20_1000001_en,The Netherlands should introduce an additional flight tax for short-distance flights.,finance_taxes,nl,20,1000001,en,nl20,True,False,False,False,False,translated
+nl_21_1000001_en,Asylum seekers with a temporary residence permit should complete integration before getting a rental home.,migration_integration,nl,21,1000001,en,nl21,True,False,False,False,False,translated
+nl_22_1000001_en,Both the purchase and sale of soft drugs by coffee shops should be legalized.,society_ethics,nl,22,1000001,en,nl22,True,False,False,False,False,translated
+nl_23_1000001_en,The government should make Dutch-language education more frequently mandatory at universities and colleges.,education,nl,23,1000001,en,nl23,True,False,False,False,False,translated
+nl_24_1000011_en,People who consider their lives complete should be able to receive assistance with suicide.,society_ethics,nl,24,1000011,en,nl24,True,False,False,False,False,translated
+nl_25_1000001_en,An increase in minimum wages should no longer automatically result in an increase in welfare benefits.,economy_labor,nl,25,1000001,en,nl25,True,False,False,False,False,translated
+nl_26_1000011_en,New residential areas should consist of at least 40 percent green space.,environ_protection,nl,26,1000011,en,nl26,True,False,False,False,False,translated
+nl_27_1000011_en,There should be no new restrictions on the activities of farming businesses.,economy_labor,nl,27,1000011,en,nl27,True,False,False,False,False,translated
+nl_28_1000001_en,"A middle school should be established so that students make a choice between vocational education, general secondary education, or pre-university education at a later age.",education,nl,28,1000001,en,nl28,True,False,False,False,False,translated
+nl_29_1000001_en,The Netherlands should accept more refugees than it currently does.,migration_integration,nl,29,1000001,en,nl29,True,False,False,False,False,translated
+nl_30_1000011_en,People should always have the choice of whether to wear a face mask.,society_ethics,nl,30,1000011,en,nl30,True,False,False,False,False,translated
+es_1_1000011_en,Limiting rights and freedoms is necessary to combat organized crime.,security_armed_forces,es,1,1000011,en,es1,True,False,False,False,False,translated
+es_2_1000001_en,The growth of Islam is a threat to Spain's security.,security_armed_forces,es,2,1000001,en,es2,True,False,False,False,False,translated
+es_3_1000001_en,Current gender policies are biased against men.,society_ethics,es,3,1000001,en,es3,True,False,False,False,False,translated
+es_4_1000011_en,The efficiency of public services improves when they are privatized.,economy_labor,es,4,1000011,en,es4,True,False,False,False,False,translated
+es_5_1000011_en,It should be easier for companies to fire workers.,economy_labor,es,5,1000011,en,es5,True,False,False,False,False,translated
+es_6_1000011_en,The state should take measures to redistribute wealth from the rich to the poor.,finance_taxes,es,6,1000011,en,es6,True,False,False,False,False,translated
+es_7_1000011_en,"The government must increase spending on public health care, even if this means increasing taxes.",health,es,7,1000011,en,es7,True,False,False,False,False,translated
+es_8_1000011_en,A permanent tax on large fortunes and assets is necessary.,finance_taxes,es,8,1000011,en,es8,True,False,False,False,False,translated
+es_9_1000011_en,The working day should be reduced without reducing workers' wages.,economy_labor,es,9,1000011,en,es9,True,False,False,False,False,translated
+es_10_1000011_en,Governments should intervene as little as possible in the economy.,economy_labor,es,10,1000011,en,es10,True,False,False,False,False,translated
+es_11_1000011_en,Taxes on fossil fuels must be raised to finance the Green Transition.,environ_protection,es,11,1000011,en,es11,True,False,False,False,False,translated
+es_12_1000011_en,Climate change is solely attributable to human action.,environ_protection,es,12,1000011,en,es12,True,False,False,False,False,translated
+es_13_1000001_en,The future Spanish government should increase irrigated agricultural areas by means of large water transfers.,economy_labor,es,13,1000001,en,es13,True,False,False,False,False,translated
+es_14_1000001_en,To better defend Spain's interests in Europe we must recover more sovereignty.,foreign_relations,es,14,1000001,en,es14,True,False,False,False,False,translated
+es_15_1000001_en,Spanish government should promote the strengthening of NATO in Europe.,security_armed_forces,es,15,1000001,en,es15,True,False,False,False,False,translated
+es_16_1000001_en,The best way to solve the conflict in Catalonia is for its citizens to be able to vote on their future in a referendum.,democracy_media_digit,es,16,1000001,en,es16,True,False,False,False,False,translated
+es_17_1000001_en,Negotiating with pro-independence supporters weakens the State.,democracy_media_digit,es,17,1000001,en,es17,True,False,False,False,False,translated
+es_18_1000001_en,Spain's territorial decentralization must be deepened.,democracy_media_digit,es,18,1000001,en,es18,True,False,False,False,False,translated
+es_19_1000001_en,The right to self-determination must be recognized by the Constitution.,democracy_media_digit,es,19,1000001,en,es19,True,False,False,False,False,translated
+es_20_1000001_en,The policies of linguistic immersion in the native language of bilingual Autonomous Communities endanger Spanish.,society_ethics,es,20,1000001,en,es20,True,False,False,False,False,translated
+es_21_1000001_en,It is necessary to repeal the Law of Democratic Memory passed during this legislature.,democracy_media_digit,es,21,1000001,en,es21,True,False,False,False,False,translated
+es_22_1000001_en,Spain should be more tolerant with illegal migration.,migration_integration,es,22,1000001,en,es22,True,False,False,False,False,translated
+es_23_1000011_en,Immigrants should pay for their own health services.,migration_integration,es,23,1000011,en,es23,True,False,False,False,False,translated
+es_24_1000011_en,Housing prices must be regulated to ensure access for all people.,welfare_state_family,es,24,1000011,en,es24,True,False,False,False,False,translated
+de_1_1000011_en,A general speed limit is to apply on all highways.,energy_transportation,de,1,1000011,en,de1,True,False,False,False,False,translated
+de_2_1000001_en,Germany is to increase its defense spending.,security_armed_forces,de,2,1000001,en,de2,True,False,False,False,False,translated
+de_3_1000001_en,Young people over the age of 16 are to be allowed to vote in Bundestag elections.,democracy_media_digit,de,3,1000001,en,de3,True,False,False,False,False,translated
+de_4_1000001_en,Subsidies for wind energy are to be ended.,energy_transportation,de,4,1000001,en,de4,True,False,False,False,False,translated
+de_5_1000011_en,The ability of landlords to increase housing rents is to be more strictly limited by law.,welfare_state_family,de,5,1000011,en,de5,True,False,False,False,False,translated
+de_6_1000011_en,Covid-19 vaccines are to continue to be protected by patents.,health,de,6,1000011,en,de6,True,False,False,False,False,translated
+de_7_1000001_en,The phase-out of coal-fired power generation planned for 2038 is to be brought forward.,energy_transportation,de,7,1000001,en,de7,True,False,False,False,False,translated
+de_8_1000011_en,All employed persons are to be required to be insured in the statutory pension scheme.,welfare_state_family,de,8,1000011,en,de8,True,False,False,False,False,translated
+de_9_1000001_en,The right of recognized refugees to join their families is to be abolished.,migration_integration,de,9,1000001,en,de9,True,False,False,False,False,translated
+de_10_1000001_en,A national tax is to be levied on revenue generated in Germany from digital services.,finance_taxes,de,10,1000001,en,de10,True,False,False,False,False,translated
+de_11_1000011_en,"The traditional family of father, mother and children is to be promoted more strongly than other living arrangements.",society_ethics,de,11,1000011,en,de11,True,False,False,False,False,translated
+de_12_1000001_en,Donations from companies to political parties should continue to be permitted.,democracy_media_digit,de,12,1000001,en,de12,True,False,False,False,False,translated
+de_13_1000001_en,Students should receive BAföG regardless of their parents' income.,welfare_state_family,de,13,1000001,en,de13,True,False,False,False,False,translated
+de_14_1000001_en,"In Germany, it should generally be possible to have a second citizenship in addition to the German one.",migration_integration,de,14,1000001,en,de14,True,False,False,False,False,translated
+de_15_1000001_en,Federal authorities are to take linguistic account of different gender identities in their publications.,society_ethics,de,15,1000001,en,de15,True,False,False,False,False,translated
+de_16_1000001_en,"The Nord Stream 2 Baltic Sea pipeline, which transports gas from Russia to Germany, is to be allowed to go into operation as planned.",energy_transportation,de,16,1000001,en,de16,True,False,False,False,False,translated
+de_17_1000001_en,The solidarity surcharge is to be abolished completely.,finance_taxes,de,17,1000001,en,de17,True,False,False,False,False,translated
+de_18_1000011_en,Female civil servants are to be allowed to wear headscarves while on duty.,society_ethics,de,18,1000011,en,de18,True,False,False,False,False,translated
+de_19_1000011_en,The registration of new cars with combustion engines should also be possible in the long term.,energy_transportation,de,19,1000011,en,de19,True,False,False,False,False,translated
+de_20_1000001_en,The federal government is to be given more responsibilities in school policy.,education,de,20,1000001,en,de20,True,False,False,False,False,translated
+de_21_1000001_en,The federal government is to provide more financial support for projects to combat anti-Semitism.,society_ethics,de,21,1000001,en,de21,True,False,False,False,False,translated
+de_22_1000001_en,Chinese companies should not be allowed to receive contracts for the expansion of the communications infrastructure in Germany.,foreign_relations,de,22,1000001,en,de22,True,False,False,False,False,translated
+de_23_1000001_en,The state should continue to collect church tax for religious communities.,finance_taxes,de,23,1000001,en,de23,True,False,False,False,False,translated
+de_24_1000011_en,The controlled sale of cannabis is to be generally permitted.,society_ethics,de,24,1000011,en,de24,True,False,False,False,False,translated
+de_25_1000001_en,Germany is to leave the European Union.,foreign_relations,de,25,1000001,en,de25,True,False,False,False,False,translated
+de_26_1000001_en,The state lists of the parties for the elections to the German Bundestag are to have to be filled alternately by women and men.,society_ethics,de,26,1000001,en,de26,True,False,False,False,False,translated
+de_27_1000001_en,Inpatient treatment in hospitals is to continue to be charged on the basis of a flat rate per case. ,health,de,27,1000001,en,de27,True,False,False,False,False,translated
+de_28_1000001_en,A tax is to be levied again on high assets.,finance_taxes,de,28,1000001,en,de28,True,False,False,False,False,translated
+de_29_1000011_en,Facial recognition software should be allowed to be used for video surveillance in public places.,security_armed_forces,de,29,1000011,en,de29,True,False,False,False,False,translated
+de_30_1000001_en,Married couples without children should continue to receive tax breaks.,finance_taxes,de,30,1000001,en,de30,True,False,False,False,False,translated
+de_31_1000011_en,Organic agriculture should be promoted more strongly than conventional agriculture.,environ_protection,de,31,1000011,en,de31,True,False,False,False,False,translated
+de_32_1000011_en,Islamic associations are to be able to be recognized by the state as religious communities.,society_ethics,de,32,1000011,en,de32,True,False,False,False,False,translated
+de_33_1000001_en,The government-set price for CO2 emissions from heating and driving is to rise more than planned.,environ_protection,de,33,1000001,en,de33,True,False,False,False,False,translated
+de_34_1000001_en,The debt brake in the Basic Law is to be retained.,finance_taxes,de,34,1000001,en,de34,True,False,False,False,False,translated
+de_35_1000001_en,Asylum is to continue to be granted only to politically persecuted persons.,migration_integration,de,35,1000001,en,de35,True,False,False,False,False,translated
+de_36_1000001_en,The statutory minimum wage is to be increased to at least 12 euros by 2022 at the latest.,economy_labor,de,36,1000001,en,de36,True,False,False,False,False,translated
+de_37_1000011_en,Air traffic is to be taxed more heavily.,finance_taxes,de,37,1000011,en,de37,True,False,False,False,False,translated
+de_38_1000011_en,Companies are to decide for themselves whether to allow their employees to work from home.,economy_labor,de,38,1000011,en,de38,True,False,False,False,False,translated
+pl_1_1000001_en,The European Union should have less influence on Polish domestic policy.,foreign_relations,pl,1,1000001,en,pl1,True,False,False,False,False,translated
+pl_2_1000001_en,Social transfers should be increased to reduce the effects of inflation on citizens.,welfare_state_family,pl,2,1000001,en,pl2,True,False,False,False,False,translated
+pl_3_1000001_en,The state should finance private visits to specialists if the waiting time at a public facility exceeds three months.,health,pl,3,1000001,en,pl3,True,False,False,False,False,translated
+pl_4_1000011_en,The state should provide a free nursery place for every child.,welfare_state_family,pl,4,1000011,en,pl4,True,False,False,False,False,translated
+pl_5_1000011_en,Schools should have more freedom to choose the content covered in the curriculum.,education,pl,5,1000011,en,pl5,True,False,False,False,False,translated
+pl_6_1000011_en,The state should build low-rent apartments for rent.,welfare_state_family,pl,6,1000011,en,pl6,True,False,False,False,False,translated
+pl_7_1000011_en,Taxes should be increased for top earners.,finance_taxes,pl,7,1000011,en,pl7,True,False,False,False,False,translated
+pl_8_1000011_en,"Early retirement should be introduced for those who have worked a certain number of years, regardless of their age.",welfare_state_family,pl,8,1000011,en,pl8,True,False,False,False,False,translated
+pl_9_1000001_en,Abortion laws should be liberalized.,society_ethics,pl,9,1000001,en,pl9,True,False,False,False,False,translated
+pl_10_1000001_en,All entrepreneurs should pay the same health premium regardless of income.,health,pl,10,1000001,en,pl10,True,False,False,False,False,translated
+pl_11_1000011_en,The result of any nationwide referendum should be binding regardless of turnout.,democracy_media_digit,pl,11,1000011,en,pl11,True,False,False,False,False,translated
+pl_12_1000001_en,Poland should adopt the migrant relocation solutions adopted by the European Union.,migration_integration,pl,12,1000001,en,pl12,True,False,False,False,False,translated
+pl_13_1000001_en,The independence of the judiciary from parliament and the government should be strengthened.,democracy_media_digit,pl,13,1000001,en,pl13,True,False,False,False,False,translated
+pl_14_1000001_en,The share of defense spending in Poland's GDP should be further increased.,security_armed_forces,pl,14,1000001,en,pl14,True,False,False,False,False,translated
+pl_15_1000001_en,The powers of local governments should be increased at the expense of the central government.,democracy_media_digit,pl,15,1000001,en,pl15,True,False,False,False,False,translated
+pl_16_1000001_en,Poland should move away from coal mining no later than 2040.,energy_transportation,pl,16,1000001,en,pl16,True,False,False,False,False,translated
+pl_17_1000001_en,Poland should have grain imports from Ukraine blocked.,foreign_relations,pl,17,1000001,en,pl17,True,False,False,False,False,translated
+pl_18_1000011_en,Christian values should be the basis of state social policy.,society_ethics,pl,18,1000011,en,pl18,True,False,False,False,False,translated
+pl_19_1000011_en,Public media funding from the state budget should be limited.,democracy_media_digit,pl,19,1000011,en,pl19,True,False,False,False,False,translated
+pl_20_1000011_en,The powers of the secret services to track the activities of citizens on the Internet should be limited.,security_armed_forces,pl,20,1000011,en,pl20,True,False,False,False,False,translated
+hu_1_1000001_en,The EU's rule of law mechanism threatens Hungary's sovereignty.,foreign_relations,hu,1,1000001,en,hu1,True,False,False,False,False,translated
+hu_2_1000001_en,Hungarian foreign policy should be guided solely by Hungarian economic interests.,foreign_relations,hu,2,1000001,en,hu2,True,False,False,False,False,translated
+hu_3_1000001_en,Hungary should decide by referendum whether to remain part of the EU.,foreign_relations,hu,3,1000001,en,hu3,True,False,False,False,False,translated
+hu_4_1000011_en,"Gender identity can be influenced by environmental influences (e.g. media content, sensitising activities).",society_ethics,hu,4,1000011,en,hu4,True,False,False,False,False,translated
+hu_5_1000011_en,Stronger state regulation of the work of NGOs supported by foreign organisations is needed.,democracy_media_digit,hu,5,1000011,en,hu5,True,False,False,False,False,translated
+hu_6_1000001_en,Hungary should join the European Public Prosecutor's Office.,foreign_relations,hu,6,1000001,en,hu6,True,False,False,False,False,translated
+hu_7_1000001_en,Stricter regulation of interception software (e.g. Pegasus) is needed (e.g. subject to judicial authorisation).,democracy_media_digit,hu,7,1000001,en,hu7,True,False,False,False,False,translated
+hu_8_1000011_en,Disclosure of the origin of criminals is needed for more effective law enforcement.,security_armed_forces,hu,8,1000011,en,hu8,True,False,False,False,False,translated
+hu_9_1000001_en,The age of compulsory schooling should be raised back to 18.,education,hu,9,1000001,en,hu9,True,False,False,False,False,translated
+hu_10_1000001_en,Education spending should be increased to at least the OECD average of 5.2 per cent (GDP).,education,hu,10,1000001,en,hu10,True,False,False,False,False,translated
+hu_11_1000011_en,Teachers' salaries should be doubled.,education,hu,11,1000011,en,hu11,True,False,False,False,False,translated
+hu_12_1000001_en,Political influence has been reduced by changing the university model (reorganisation into a trust).,education,hu,12,1000001,en,hu12,True,False,False,False,False,translated
+hu_13_1000011_en,Only men and women should be allowed to marry.,society_ethics,hu,13,1000011,en,hu13,True,False,False,False,False,translated
+hu_14_1000001_en,Parties should strive for a closer ratio of men to women when drawing up lists.,society_ethics,hu,14,1000001,en,hu14,True,False,False,False,False,translated
+hu_15_1000011_en,The state should take targeted measures to promote equal participation of fathers and mothers in child-rearing.,welfare_state_family,hu,15,1000011,en,hu15,True,False,False,False,False,translated
+hu_16_1000001_en,"The Hungarian government should ratify the Istanbul Convention, which combats violence against women and domestic violence.",welfare_state_family,hu,16,1000001,en,hu16,True,False,False,False,False,translated
+hu_17_1000001_en,One effective way to reduce rents is to conclude favourable gas supply contracts with Russia.,economy_labor,hu,17,1000001,en,hu17,True,False,False,False,False,translated
+hu_18_1000001_en,Comprehensive public procurement reform is needed (e.g. opening up large-scale centralised public procurement to smaller firms).,economy_labor,hu,18,1000001,en,hu18,True,False,False,False,False,translated
+hu_19_1000001_en,Increase the contribution of the wealthier to the public purse (abolition of the one-band tax).,finance_taxes,hu,19,1000001,en,hu19,True,False,False,False,False,translated
+hu_20_1000011_en,Public employment helps people re-enter the labour market.,economy_labor,hu,20,1000011,en,hu20,True,False,False,False,False,translated
+hu_21_1000011_en,"A price freeze on some basic foodstuffs (e.g. chicken tail, milk) is the right step to fight inflation.",finance_taxes,hu,21,1000011,en,hu21,True,False,False,False,False,translated
+hu_22_1000011_en,State regulation of the rental housing market is not necessary.,economy_labor,hu,22,1000011,en,hu22,True,False,False,False,False,translated
+hu_23_1000001_en,The current three-month unemployment benefit should be extended.,welfare_state_family,hu,23,1000001,en,hu23,True,False,False,False,False,translated
+hu_24_1000001_en,A family tax credit is a better way to support families than increasing the family allowance.,welfare_state_family,hu,24,1000001,en,hu24,True,False,False,False,False,translated
+hu_25_1000001_en,"It is right that it is the Education Office, rather than parents and kindergarten teachers, that decides on the school entry maturity of children over the age of six.",education,hu,25,1000001,en,hu25,True,False,False,False,False,translated
+hu_28_1000001_en,The use of medical cannabis should be legalised in Hungary.,society_ethics,hu,28,1000001,en,hu28,True,False,False,False,False,translated
+hu_29_1000001_en,An independent Ministry of Health should be established.,health,hu,29,1000001,en,hu29,True,False,False,False,False,translated
+hu_30_1000001_en,The President of the Hungarian Republic should be directly elected.,democracy_media_digit,hu,30,1000001,en,hu30,True,False,False,False,False,translated
+hu_31_1000001_en,"Comprehensive reform of the electoral system (redrawing of district boundaries, abolition of winner-take-all compensation, extension of postal voting) is needed.",democracy_media_digit,hu,31,1000001,en,hu31,True,False,False,False,False,translated
+hu_32_1000001_en,A legal framework for primary elections should be provided.,democracy_media_digit,hu,32,1000001,en,hu32,True,False,False,False,False,translated
+hu_33_1000011_en,Voting age for elections should be 16.,democracy_media_digit,hu,33,1000011,en,hu33,True,False,False,False,False,translated
+hu_34_1000011_en,Internet access should be free for all.,democracy_media_digit,hu,34,1000011,en,hu34,True,False,False,False,False,translated
+hu_36_1000011_en,Polluting companies should be taxed more heavily.,environ_protection,hu,36,1000011,en,hu36,True,False,False,False,False,translated
+hu_37_1000011_en,"In larger cities, car traffic should be limited through various measures (P+R parking, construction of cycle paths, improvement of public transport).",energy_transportation,hu,37,1000011,en,hu37,True,False,False,False,False,translated
+hu_38_1000001_en,The redevelopment of urban green spaces (e.g. the Liget project in Budapest) needs a broad social dialogue.,environ_protection,hu,38,1000001,en,hu38,True,False,False,False,False,translated
+hu_39_1000011_en,An independent ministry for the environment is needed.,environ_protection,hu,39,1000011,en,hu39,True,False,False,False,False,translated
+hu_40_1000001_en,An animal rights commissioner should be introduced.,environ_protection,hu,40,1000001,en,hu40,True,False,False,False,False,translated
+it_1_1000001_en,European integration is all in all a positive process.,foreign_relations,it,1,1000001,en,it1,True,False,False,False,False,translated
+it_2_1000001_en,Italy should get out of the Eurozone.,foreign_relations,it,2,1000001,en,it2,True,False,False,False,False,translated
+it_3_1000001_en,The European Union should have a common foreign policy.,foreign_relations,it,3,1000001,en,it3,True,False,False,False,False,translated
+it_4_1000001_en,There should be a common European army.,security_armed_forces,it,4,1000001,en,it4,True,False,False,False,False,translated
+it_5_1000001_en,European economic integration has gone too far: member states should regain more autonomy.,foreign_relations,it,5,1000001,en,it5,True,False,False,False,False,translated
+it_6_1000011_en,Restrictions on personal freedom and privacy are acceptable to deal with health emergencies such as Covid-19.,health,it,6,1000011,en,it6,True,False,False,False,False,translated
+it_7_1000011_en,"Migrant landings must be stopped, even by extreme means.",migration_integration,it,7,1000011,en,it7,True,False,False,False,False,translated
+it_8_1000001_en,"Children, born in Italy to foreign citizens and who have completed schooling should be granted Italian citizenship (ius scholae).",migration_integration,it,8,1000001,en,it8,True,False,False,False,False,translated
+it_9_1000011_en,"More civil rights should be granted to homosexual, bisexual, transgender (LGBT+) people.",society_ethics,it,9,1000011,en,it9,True,False,False,False,False,translated
+it_10_1000011_en,Citizens should be guaranteed freedom of choice in end-of-life matters (euthanasia).,society_ethics,it,10,1000011,en,it10,True,False,False,False,False,translated
+it_11_1000011_en,Recreational use of marijuana/cannabis should be allowed.,society_ethics,it,11,1000011,en,it11,True,False,False,False,False,translated
+it_12_1000011_en,A law is needed to prevent companies from relocating their production abroad.,economy_labor,it,12,1000011,en,it12,True,False,False,False,False,translated
+it_13_1000011_en,A heritage tax one's wealth should be introduced.,finance_taxes,it,13,1000011,en,it13,True,False,False,False,False,translated
+it_14_1000011_en,Businesses should be able to fire employees more easily.,economy_labor,it,14,1000011,en,it14,True,False,False,False,False,translated
+it_15_1000011_en,Health care should be managed only by the state and not by private individuals.,health,it,15,1000011,en,it15,True,False,False,False,False,translated
+it_16_1000001_en,"The introduction of a single income tax rate (""flat tax"") would benefit the Italian economy.",finance_taxes,it,16,1000001,en,it16,True,False,False,False,False,translated
+it_17_1000011_en,An hourly minimum wage should be introduced.,economy_labor,it,17,1000011,en,it17,True,False,False,False,False,translated
+it_18_1000001_en,The citizenship allowance is a measure that should be cancelled.,welfare_state_family,it,18,1000001,en,it18,True,False,False,False,False,translated
+it_19_1000001_en,Beach concessions to private individuals should be time-limited.,economy_labor,it,19,1000001,en,it19,True,False,False,False,False,translated
+it_20_1000011_en,The use of nuclear power plants for the purpose of producing energy should be promoted.,energy_transportation,it,20,1000011,en,it20,True,False,False,False,False,translated
+it_21_1000001_en,The construction of Major Works is a priority for Italy.,economy_labor,it,21,1000001,en,it21,True,False,False,False,False,translated
+it_22_1000001_en,Italy should build more incinerators/thermal power plants.,energy_transportation,it,22,1000001,en,it22,True,False,False,False,False,translated
+it_23_1000011_en,Drilling is necessary to find more energy resources.,energy_transportation,it,23,1000011,en,it23,True,False,False,False,False,translated
+it_24_1000001_en,Regasifiers are necessary infrastructure for Italy.,energy_transportation,it,24,1000001,en,it24,True,False,False,False,False,translated
+it_25_1000001_en,Italy should keep its foreign policy aligned with the choices of the Atlantic Alliance (NATO).,security_armed_forces,it,25,1000001,en,it25,True,False,False,False,False,translated
+it_26_1000001_en,Sanctions against Russia should be tougher.,foreign_relations,it,26,1000001,en,it26,True,False,False,False,False,translated
+it_27_1000001_en,Italy should stop sending arms and war material to the Ukrainian government.,foreign_relations,it,27,1000001,en,it27,True,False,False,False,False,translated
+it_28_1000011_en,Taxes collected at the regional level should be fully retained in the region itself.,finance_taxes,it,28,1000011,en,it28,True,False,False,False,False,translated
+it_29_1000001_en,Separation of careers between judges and prosecutors should be introduced.,democracy_media_digit,it,29,1000001,en,it29,True,False,False,False,False,translated
+it_30_1000001_en,Direct election of the President of the Republic should be introduced.,democracy_media_digit,it,30,1000001,en,it30,True,False,False,False,False,translated
+ch_18_1000011_en,There should be an increase in the retirement age. ,welfare_state_family,ch,18,1000011,en,ch18,True,False,False,False,False,translated
+ch_19_1000001_en,The federal government should allocate more funding for health insurance premium subsidies. ,welfare_state_family,ch,19,1000001,en,ch19,True,False,False,False,False,translated
+ch_20_1000001_en,"For married couples, the pension is currently limited to 150% of the maximum individual AHV pension (capping). This limit should be eliminated.",welfare_state_family,ch,20,1000001,en,ch20,True,False,False,False,False,translated
+ch_21_1000001_en,"As part of the reform of the BVG (occupational pension plan), pensions are to be reduced (lowering the minimum conversion rate from 6.8% to 6%). ",welfare_state_family,ch,21,1000001,en,ch21,True,False,False,False,False,translated
+ch_22_1000001_en,Paid parental leave should be increased beyond today's 14 weeks of maternity leave and two weeks of paternity leave. ,welfare_state_family,ch,22,1000001,en,ch22,True,False,False,False,False,translated
+ch_23_1000011_en,The federal government should provide more financial support for public housing construction. ,welfare_state_family,ch,23,1000011,en,ch23,True,False,False,False,False,translated
+ch_24_1000001_en,Compulsory vaccination of children should be introduced based on the Swiss vaccination plan. ,health,ch,24,1000001,en,ch24,True,False,False,False,False,translated
+ch_25_1000011_en,There should be an introduction of a tax on foods containing sugar (sugar tax). ,health,ch,25,1000011,en,ch25,True,False,False,False,False,translated
+ch_26_1000001_en,"Insured persons should contribute more to health care costs (e.g., increase the minimum deductible).",health,ch,26,1000001,en,ch26,True,False,False,False,False,translated
+ch_27_1000001_en,The Federal Council's ability to restrict private and economic life in the event of a pandemic should be more limited. ,health,ch,27,1000001,en,ch27,True,False,False,False,False,translated
+ch_28_1000001_en,The federal government should be given the authority to determine the hospital offering (national hospital planning with regard to locations and range of services). ,health,ch,28,1000001,en,ch28,True,False,False,False,False,translated
+ch_29_1000001_en,"According to the Swiss integrated schooling concept, children with learning difficulties or disabilities should be taught in regular classes. ",education,ch,29,1000001,en,ch29,True,False,False,False,False,translated
+ch_30_1000011_en,The federal government should raise the requirements for the high school. ,education,ch,30,1000011,en,ch30,True,False,False,False,False,translated
+ch_31_1000011_en,"The state should be more committed to equal educational opportunities (e.g., through subsidized remedial courses for students from low-income families). ",education,ch,31,1000011,en,ch31,True,False,False,False,False,translated
+ch_32_1000011_en,"The conditions for naturalization should be relaxed (e.g., shorter residence period). ",migration_integration,ch,32,1000011,en,ch32,True,False,False,False,False,translated
+ch_33_1000001_en,More qualified workers from non-EU/EFTA countries should be allowed to work in Switzerland (increase third-country quota).,migration_integration,ch,33,1000001,en,ch33,True,False,False,False,False,translated
+ch_34_1000001_en,There should be efforts to house asylum seekers in centers outside Europe during the asylum procedure. ,migration_integration,ch,34,1000001,en,ch34,True,False,False,False,False,translated
+ch_35_1000001_en,Foreign nationals who have lived in Switzerland for at least ten years should be granted the right to vote and stand for election at the municipal level. ,migration_integration,ch,35,1000001,en,ch35,True,False,False,False,False,translated
+ch_36_1000011_en,Cannabis use should be legalized. ,society_ethics,ch,36,1000011,en,ch36,True,False,False,False,False,translated
+ch_37_1000011_en,Doctors should be allowed to administer direct active euthanasia. ,society_ethics,ch,37,1000011,en,ch37,True,False,False,False,False,translated
+ch_38_1000011_en,"A third official gender should be introduced alongside ""female"" and ""male"". ",society_ethics,ch,38,1000011,en,ch38,True,False,False,False,False,translated
+ch_39_1000011_en,Same-sex couples should have the same rights as heterosexual couples in all areas. ,society_ethics,ch,39,1000011,en,ch39,True,False,False,False,False,translated
+ch_40_1000001_en,There should be tax cuts at the federal level over the next four years. ,finance_taxes,ch,40,1000001,en,ch40,True,False,False,False,False,translated
+ch_41_1000011_en,Married couples be taxed separately (individual taxation). ,finance_taxes,ch,41,1000011,en,ch41,True,False,False,False,False,translated
+ch_42_1000001_en,There should be the introduction of a national inheritance tax on all inheritances over one million Swiss francs. ,finance_taxes,ch,42,1000001,en,ch42,True,False,False,False,False,translated
+ch_43_1000001_en,The differences between cantons with high and low financial capacity should be further reduced through fiscal equalization. ,finance_taxes,ch,43,1000001,en,ch43,True,False,False,False,False,translated
+ch_44_1000001_en,"A minimum wage of CHF 4,000 for all full-time employees should be introduced. ",economy_labor,ch,44,1000001,en,ch44,True,False,False,False,False,translated
+ch_45_1000011_en,"There should be stricter regulations for the financial sector (e.g., stricter capital requirements for banks, ban on bonuses). ",economy_labor,ch,45,1000011,en,ch45,True,False,False,False,False,translated
+ch_46_1000011_en,Private households should be free to choose their electricity supplier (complete liberalization of the electricity market). ,economy_labor,ch,46,1000011,en,ch46,True,False,False,False,False,translated
+ch_47_1000011_en,"Housing construction regulations should be relaxed (e.g., noise protection, occupancy rates). ",economy_labor,ch,47,1000011,en,ch47,True,False,False,False,False,translated
+ch_48_1000011_en,There should be stricter controls on equal pay for women and men. ,economy_labor,ch,48,1000011,en,ch48,True,False,False,False,False,translated
+ch_49_1000011_en,Busy sections of highways should be widened. ,energy_transportation,ch,49,1000011,en,ch49,True,False,False,False,False,translated
+ch_50_1000001_en,Switzerland should ban the registration of new passenger cars with internal combustion engines starting in 2035. ,energy_transportation,ch,50,1000001,en,ch50,True,False,False,False,False,translated
+ch_51_1000011_en,"To achieve climate targets, incentives and target agreements should be relied on exclusively, rather than bans and restrictions. ",energy_transportation,ch,51,1000011,en,ch51,True,False,False,False,False,translated
+ch_52_1000011_en,It's fair that environmental and landscape protection rules are being relaxed to allow for the development of renewable energy. ,energy_transportation,ch,52,1000011,en,ch52,True,False,False,False,False,translated
+ch_53_1000011_en,The construction of new nuclear power plants should be allowed again. ,energy_transportation,ch,53,1000011,en,ch53,True,False,False,False,False,translated
+ch_54_1000001_en,The state should guarantee a comprehensive public service offering also in rural regions. ,energy_transportation,ch,54,1000001,en,ch54,True,False,False,False,False,translated
+ch_55_1000011_en,Increasing electricity tariffs when consumption is higher (progressive electricity tariffs) should be introduced. ,energy_transportation,ch,55,1000011,en,ch55,True,False,False,False,False,translated
+ch_56_1000011_en,"The protection regulations for large predators (lynx, wolf, bear) should be relaxed. ",environ_protection,ch,56,1000011,en,ch56,True,False,False,False,False,translated
+ch_57_1000001_en,Direct payments should only be granted to farmers with proof of ecological performance. ,environ_protection,ch,57,1000001,en,ch57,True,False,False,False,False,translated
+ch_58_1000011_en,There should be stricter animal welfare regulations for livestock (e.g. permanent access to outdoor areas). ,environ_protection,ch,58,1000011,en,ch58,True,False,False,False,False,translated
+ch_59_1000001_en,30% of Switzerland's land area should be dedicated to preserving biodiversity?. ,environ_protection,ch,59,1000001,en,ch59,True,False,False,False,False,translated
+ch_0_1000011_en,There should be a ban on single-use plastic and non-recyclable plastics. ,environ_protection,ch,0,1000011,en,ch0,True,False,False,False,False,translated
+ch_1_1000011_en,"There should be government measures to make the use of electronic devices more sustainable (e.g., right to repair, extension of warranty period, minimum guaranteed period for software updates). ",environ_protection,ch,1,1000011,en,ch1,True,False,False,False,False,translated
+ch_2_1000001_en,The Swiss mobile network should be equipped throughout the country with the latest technology (currently 5G standard). ,democracy_media_digit,ch,2,1000001,en,ch2,True,False,False,False,False,translated
+ch_3_1000001_en,The federal government should be given additional powers in the area of digitization of government services in order to be able to impose binding directives and standards on the cantons.,democracy_media_digit,ch,3,1000001,en,ch3,True,False,False,False,False,translated
+ch_4_1000011_en,"There should be a stronger regulation of the major Internet platforms (i.e., transparency rules on algorithms, increased liability for content, combating disinformation). ",democracy_media_digit,ch,4,1000011,en,ch4,True,False,False,False,False,translated
+ch_5_1000001_en,"There should be a popular initiative aims to reduce television and radio fees (CHF 200 per household, exemption for businesses).",democracy_media_digit,ch,5,1000001,en,ch5,True,False,False,False,False,translated
+ch_6_1000011_en,The voting age should be lowered to 16. ,democracy_media_digit,ch,6,1000011,en,ch6,True,False,False,False,False,translated
+ch_7_1000011_en,It should be possible to hold a referendum on federal spending above a certain amount (optional financial referendum). ,democracy_media_digit,ch,7,1000011,en,ch7,True,False,False,False,False,translated
+ch_8_1000001_en,"The army's target number of soldiers should expand to at least 120,000. ",security_armed_forces,ch,8,1000001,en,ch8,True,False,False,False,False,translated
+ch_9_1000001_en,The Swiss Armed Forces should expand their cooperation with NATO. ,security_armed_forces,ch,9,1000001,en,ch9,True,False,False,False,False,translated
+ch_10_1000001_en,"The Federal Council should be allowed to authorize other states to re-export Swiss weapons in cases of a war of aggression in violation of international law (e.g., the attack on Ukraine). ",security_armed_forces,ch,10,1000001,en,ch10,True,False,False,False,False,translated
+ch_11_1000011_en,Automatic facial recognition should be banned in public spaces. ,security_armed_forces,ch,11,1000011,en,ch11,True,False,False,False,False,translated
+ch_12_1000001_en,Switzerland should terminate the Schengen agreement with the EU and reintroduce more security checks directly on the border. ,security_armed_forces,ch,12,1000001,en,ch12,True,False,False,False,False,translated
+ch_13_1000001_en,There should be closer relations with the European Union (EU). ,foreign_relations,ch,13,1000001,en,ch13,True,False,False,False,False,translated
+ch_14_1000001_en,Switzerland should strive for a comprehensive free trade agreement (including agriculture) with the USA. ,foreign_relations,ch,14,1000001,en,ch14,True,False,False,False,False,translated
+ch_15_1000011_en,Companies should be obliged to ensure that their subsidiaries and suppliers operating abroad comply with social and environmental standards. ,foreign_relations,ch,15,1000011,en,ch15,True,False,False,False,False,translated
+ch_16_1000001_en,Switzerland should terminate the Bilateral Agreements with the EU and seek a free trade agreement without the free movement of persons. ,foreign_relations,ch,16,1000001,en,ch16,True,False,False,False,False,translated
+ch_17_1000001_en,Switzerland should return to a strict interpretation of neutrality (renounce economic sanctions to a large extent). ,foreign_relations,ch,17,1000001,en,ch17,True,False,False,False,False,translated
+it_1_1010001_en,"All things considered, the unification of Europe has predominantly beneficial outcomes.",foreign_relations,it,1,1010001,en,it1,False,True,False,False,False,translated
+it_1_1020001_en,"The process of uniting European countries is, on the whole, advantageous.",foreign_relations,it,1,1020001,en,it1,False,True,False,False,False,translated
+it_1_1030001_en,"Overall, the merging of European nations is a favorable development.",foreign_relations,it,1,1030001,en,it1,False,True,False,False,False,translated
+it_2_1010001_en,Italy ought to withdraw from the coalition of Euro currency-using countries.,foreign_relations,it,2,1010001,en,it2,False,True,False,False,False,translated
+it_2_1020001_en,It is time for Italy to exit the group of countries that use the Euro.,foreign_relations,it,2,1020001,en,it2,False,True,False,False,False,translated
+it_2_1030001_en,The best course of action for Italy is to leave the monetary union of the Eurozone.,foreign_relations,it,2,1030001,en,it2,False,True,False,False,False,translated
+it_3_1010001_en,A unified foreign policy should be adopted by the European Union.,foreign_relations,it,3,1010001,en,it3,False,True,False,False,False,translated
+it_3_1020001_en,It is essential for the European Union to establish a shared approach to foreign affairs.,foreign_relations,it,3,1020001,en,it3,False,True,False,False,False,translated
+it_3_1030001_en,The member states of the European Union need to operate under a single foreign policy.,foreign_relations,it,3,1030001,en,it3,False,True,False,False,False,translated
+it_4_1010001_en,A unified military force should be established for Europe.,security_armed_forces,it,4,1010001,en,it4,False,True,False,False,False,translated
+it_4_1020001_en,Europe ought to create a joint army for the member states.,security_armed_forces,it,4,1020001,en,it4,False,True,False,False,False,translated
+it_4_1030001_en,A collective defense force is needed for the nations of Europe.,security_armed_forces,it,4,1030001,en,it4,False,True,False,False,False,translated
+it_5_1010001_en,The extent of economic unification in Europe has exceeded its limits; it's time for countries to reclaim greater sovereignty.,foreign_relations,it,5,1010001,en,it5,False,True,False,False,False,translated
+it_5_1020001_en,Member states need to recover increased independence due to the excessive integration of Europe's economy.,foreign_relations,it,5,1020001,en,it5,False,True,False,False,False,translated
+it_5_1030001_en,The process of integrating European economies should be dialed back to allow nations more self-governance.,foreign_relations,it,5,1030001,en,it5,False,True,False,False,False,translated
+it_6_1010011_en,"In the face of public health crises like Covid-19, imposing limitations on individual rights and privacy can be justified.",health,it,6,1010011,en,it6,False,True,False,False,False,translated
+it_6_1020011_en,It's permissible to curtail personal liberties and privacy during health emergencies such as the Covid-19 pandemic.,health,it,6,1020011,en,it6,False,True,False,False,False,translated
+it_6_1030011_en,"During health crises such as Covid-19, it is reasonable to accept some constraints on personal freedoms and privacy.",health,it,6,1030011,en,it6,False,True,False,False,False,translated
+it_7_1010011_en,"The arrival of migrants should be halted, even if it requires drastic measures.",migration_integration,it,7,1010011,en,it7,False,True,False,False,False,translated
+it_7_1020011_en,"It is imperative to cease the influx of migrants, employing even the most severe methods if necessary.",migration_integration,it,7,1020011,en,it7,False,True,False,False,False,translated
+it_7_1030011_en,"Halting the entry of migrants is necessary, and extreme actions may be justified.",migration_integration,it,7,1030011,en,it7,False,True,False,False,False,translated
+it_8_1010001_en,Minors who are born to international parents in Italy and finish their education there deserve to be conferred with Italian nationality.,migration_integration,it,8,1010001,en,it8,False,True,False,False,False,translated
+it_8_1020001_en,"Italian citizenship should be awarded to those children who, born to non-Italian parents, have successfully completed their schooling in Italy.",migration_integration,it,8,1020001,en,it8,False,True,False,False,False,translated
+it_8_1030001_en,Italian nationality ought to be granted to offspring of foreign nationals born and educated in Italy.,migration_integration,it,8,1030001,en,it8,False,True,False,False,False,translated
+it_9_1010011_en,The extension of more civil liberties to individuals who identify as LGBT+ is warranted.,society_ethics,it,9,1010011,en,it9,False,True,False,False,False,translated
+it_9_1020011_en,It's essential to enhance the civil rights afforded to the LGBT+ community.,society_ethics,it,9,1020011,en,it9,False,True,False,False,False,translated
+it_9_1030011_en,The LGBT+ population should receive additional civil rights protections.,society_ethics,it,9,1030011,en,it9,False,True,False,False,False,translated
+it_10_1010011_en,Individuals have the right to make their own decisions regarding euthanasia at the end of their lives.,society_ethics,it,10,1010011,en,it10,False,True,False,False,False,translated
+it_10_1020011_en,People should have the autonomy to choose in matters concerning euthanasia at life's end.,society_ethics,it,10,1020011,en,it10,False,True,False,False,False,translated
+it_10_1030011_en,It's essential for individuals to have the freedom to decide on euthanasia-related issues when facing the end of life.,society_ethics,it,10,1030011,en,it10,False,True,False,False,False,translated
+it_11_1010011_en,The legalization of recreational marijuana is a necessary step.,society_ethics,it,11,1010011,en,it11,False,True,False,False,False,translated
+it_11_1020011_en,It should be permissible to use marijuana for leisure purposes.,society_ethics,it,11,1020011,en,it11,False,True,False,False,False,translated
+it_11_1030011_en,Laws should permit the recreational consumption of cannabis.,society_ethics,it,11,1030011,en,it11,False,True,False,False,False,translated
+it_12_1010011_en,Legislation should be introduced to stop businesses from moving manufacturing overseas.,economy_labor,it,12,1010011,en,it12,False,True,False,False,False,translated
+it_12_1020011_en,"To keep production domestic, a law must be enacted to hinder companies from transferring their manufacturing abroad.",economy_labor,it,12,1020011,en,it12,False,True,False,False,False,translated
+it_12_1030011_en,A regulatory measure is required to prohibit companies from outsourcing their production to foreign countries.,economy_labor,it,12,1030011,en,it12,False,True,False,False,False,translated
+it_13_1010011_en,There should be the implementation of a tax on individual wealth inheritance.,finance_taxes,it,13,1010011,en,it13,False,True,False,False,False,translated
+it_13_1020011_en,A tax on the inherited wealth of an individual ought to be established.,finance_taxes,it,13,1020011,en,it13,False,True,False,False,False,translated
+it_13_1030011_en,The introduction of an inheritance tax on personal wealth is necessary.,finance_taxes,it,13,1030011,en,it13,False,True,False,False,False,translated
+it_14_1010011_en,Companies need more flexibility to dismiss employees when necessary.,economy_labor,it,14,1010011,en,it14,False,True,False,False,False,translated
+it_14_1020011_en,The process for businesses to terminate employees should be simplified.,economy_labor,it,14,1020011,en,it14,False,True,False,False,False,translated
+it_14_1030011_en,It should be less complicated for companies to lay off workers.,economy_labor,it,14,1030011,en,it14,False,True,False,False,False,translated
+it_15_1010011_en,"State authorities, not private entities, should be solely responsible for administering health care.",health,it,15,1010011,en,it15,False,True,False,False,False,translated
+it_15_1020011_en,"The exclusive management of health care should be in the hands of the government, not private individuals.",health,it,15,1020011,en,it15,False,True,False,False,False,translated
+it_15_1030011_en,"Only state agencies should oversee health care services, excluding private management.",health,it,15,1030011,en,it15,False,True,False,False,False,translated
+it_16_1010001_en,Implementing a flat tax system would positively impact Italy's economy.,finance_taxes,it,16,1010001,en,it16,False,True,False,False,False,translated
+it_16_1020001_en,The Italian economy would gain from adopting a uniform income tax rate.,finance_taxes,it,16,1020001,en,it16,False,True,False,False,False,translated
+it_16_1030001_en,A singular income tax rate could be advantageous for the economic health of Italy.,finance_taxes,it,16,1030001,en,it16,False,True,False,False,False,translated
+it_17_1010011_en,There should be a set minimum wage per hour.,economy_labor,it,17,1010011,en,it17,False,True,False,False,False,translated
+it_17_1020011_en,The establishment of a minimum hourly wage rate is necessary.,economy_labor,it,17,1020011,en,it17,False,True,False,False,False,translated
+it_17_1030011_en,Instituting an hourly rate as the minimum wage is essential.,economy_labor,it,17,1030011,en,it17,False,True,False,False,False,translated
+it_18_1010001_en,The policy of providing a citizenship allowance ought to be revoked.,welfare_state_family,it,18,1010001,en,it18,False,True,False,False,False,translated
+it_18_1020001_en,It's time to discontinue the citizenship allowance program.,welfare_state_family,it,18,1020001,en,it18,False,True,False,False,False,translated
+it_18_1030001_en,The practice of granting a citizenship allowance should be terminated.,welfare_state_family,it,18,1030001,en,it18,False,True,False,False,False,translated
+it_19_1010001_en,Private beach access should be granted only for a limited duration.,economy_labor,it,19,1010001,en,it19,False,True,False,False,False,translated
+it_19_1020001_en,The allocation of beach areas to individuals should be restricted by a fixed time frame.,economy_labor,it,19,1020001,en,it19,False,True,False,False,False,translated
+it_19_1030001_en,Beach privileges for private persons should have a set expiration period.,economy_labor,it,19,1030001,en,it19,False,True,False,False,False,translated
+it_20_1010011_en,Advancing the deployment of nuclear power facilities for energy generation is essential.,energy_transportation,it,20,1010011,en,it20,False,True,False,False,False,translated
+it_20_1020011_en,We should advocate for the expansion of nuclear energy production.,energy_transportation,it,20,1020011,en,it20,False,True,False,False,False,translated
+it_20_1030011_en,The advancement of nuclear energy as a means for power generation warrants support.,energy_transportation,it,20,1030011,en,it20,False,True,False,False,False,translated
+it_21_1010001_en,Prioritizing the building of significant infrastructure projects is crucial for Italy.,economy_labor,it,21,1010001,en,it21,False,True,False,False,False,translated
+it_21_1020001_en,Italy must focus on the development of major construction projects.,economy_labor,it,21,1020001,en,it21,False,True,False,False,False,translated
+it_21_1030001_en,"For Italy, initiating large-scale construction projects should be a primary concern.",economy_labor,it,21,1030001,en,it21,False,True,False,False,False,translated
+it_22_1010001_en,It is important for Italy to increase the number of incinerators and thermal power stations.,energy_transportation,it,22,1010001,en,it22,False,True,False,False,False,translated
+it_22_1020001_en,The expansion of incinerator and thermal power plant construction is necessary for Italy.,energy_transportation,it,22,1020001,en,it22,False,True,False,False,False,translated
+it_22_1030001_en,Italy needs to invest in the construction of additional incinerators and thermal power facilities.,energy_transportation,it,22,1030001,en,it22,False,True,False,False,False,translated
+it_23_1010011_en,Exploration through drilling is essential to discover additional energy reserves.,energy_transportation,it,23,1010011,en,it23,False,True,False,False,False,translated
+it_23_1020011_en,It is imperative to undertake drilling to locate new sources of energy.,energy_transportation,it,23,1020011,en,it23,False,True,False,False,False,translated
+it_23_1030011_en,Conducting drilling operations is crucial for unearthing further energy supplies.,energy_transportation,it,23,1030011,en,it23,False,True,False,False,False,translated
+it_24_1010001_en,Italy requires regasifiers as a key component of its infrastructure.,energy_transportation,it,24,1010001,en,it24,False,True,False,False,False,translated
+it_24_1020001_en,The establishment of regasification units is crucial for Italy's infrastructure.,energy_transportation,it,24,1020001,en,it24,False,True,False,False,False,translated
+it_24_1030001_en,Regasification facilities are indispensable to Italy’s infrastructure strategy.,energy_transportation,it,24,1030001,en,it24,False,True,False,False,False,translated
+it_25_1010001_en,Italy must ensure its foreign policy is in harmony with the strategic decisions of NATO.,security_armed_forces,it,25,1010001,en,it25,False,True,False,False,False,translated
+it_25_1020001_en,It is vital for Italy to maintain a foreign policy that corresponds with NATO's directives.,security_armed_forces,it,25,1020001,en,it25,False,True,False,False,False,translated
+it_25_1030001_en,Aligning with the Atlantic Alliance's decisions should remain a cornerstone of Italy's foreign policy.,security_armed_forces,it,25,1030001,en,it25,False,True,False,False,False,translated
+it_26_1010001_en,The punitive measures imposed on Russia need to be more stringent.,foreign_relations,it,26,1010001,en,it26,False,True,False,False,False,translated
+it_26_1020001_en,There is a need for the international community to enforce harsher sanctions against Russia.,foreign_relations,it,26,1020001,en,it26,False,True,False,False,False,translated
+it_26_1030001_en,The severity of sanctions targeting Russia should be increased.,foreign_relations,it,26,1030001,en,it26,False,True,False,False,False,translated
+it_27_1010001_en,Italy must cease the provision of military equipment and arms to Ukraine.,foreign_relations,it,27,1010001,en,it27,False,True,False,False,False,translated
+it_27_1020001_en,The dispatch of armaments and military supplies from Italy to Ukraine should be halted.,foreign_relations,it,27,1020001,en,it27,False,True,False,False,False,translated
+it_27_1030001_en,It is imperative that Italy discontinues its transfer of warfare materials to the Ukrainian authorities.,foreign_relations,it,27,1030001,en,it27,False,True,False,False,False,translated
+it_28_1010011_en,Regions should retain complete control over the taxes they collect.,finance_taxes,it,28,1010011,en,it28,False,True,False,False,False,translated
+it_28_1020011_en,It is essential for taxes gathered regionally to remain within that region.,finance_taxes,it,28,1020011,en,it28,False,True,False,False,False,translated
+it_28_1030011_en,The entirety of regional tax revenue should be kept within the collecting region.,finance_taxes,it,28,1030011,en,it28,False,True,False,False,False,translated
+it_29_1010001_en,There should be a clear distinction between the professional paths of judges and prosecutors.,democracy_media_digit,it,29,1010001,en,it29,False,True,False,False,False,translated
+it_29_1020001_en,The career paths of judges and prosecutors ought to be distinctly separate.,democracy_media_digit,it,29,1020001,en,it29,False,True,False,False,False,translated
+it_29_1030001_en,Implementing a division of career tracks for judges and prosecutors is necessary.,democracy_media_digit,it,29,1030001,en,it29,False,True,False,False,False,translated
+it_30_1010001_en,The President of the Republic ought to be chosen through direct popular vote.,democracy_media_digit,it,30,1010001,en,it30,False,True,False,False,False,translated
+it_30_1020001_en,The method for selecting the President of the Republic should be changed to a direct electoral system.,democracy_media_digit,it,30,1020001,en,it30,False,True,False,False,False,translated
+it_30_1030001_en,Citizens should have the direct authority to elect the President of the Republic.,democracy_media_digit,it,30,1030001,en,it30,False,True,False,False,False,translated
+ch_18_1010011_en,The age of retirement needs to be raised.,welfare_state_family,ch,18,1010011,en,ch18,False,True,False,False,False,translated
+ch_18_1020011_en,It is necessary to extend the age at which individuals qualify for retirement.,welfare_state_family,ch,18,1020011,en,ch18,False,True,False,False,False,translated
+ch_18_1030011_en,The government should implement a higher retirement age threshold.,welfare_state_family,ch,18,1030011,en,ch18,False,True,False,False,False,translated
+ch_19_1010001_en,Additional financial resources should be devoted by the federal government to subsidize health insurance premiums.,welfare_state_family,ch,19,1010001,en,ch19,False,True,False,False,False,translated
+ch_19_1020001_en,It is essential for the federal government to increase its contribution to health insurance premium subsidies.,welfare_state_family,ch,19,1020001,en,ch19,False,True,False,False,False,translated
+ch_19_1030001_en,The federal government needs to enhance the allocation of funds for reducing health insurance premiums for individuals.,welfare_state_family,ch,19,1030001,en,ch19,False,True,False,False,False,translated
+ch_20_1010001_en,The existing cap that restricts married couples' pensions to 150% of the maximum individual AHV should be removed.,welfare_state_family,ch,20,1010001,en,ch20,False,True,False,False,False,translated
+ch_20_1020001_en,The limitation on the pension for married couples to 150% of the full individual AHV pension needs to be abolished.,welfare_state_family,ch,20,1020001,en,ch20,False,True,False,False,False,translated
+ch_20_1030001_en,"The pension cap for married couples, set at 150% of the individual AHV maximum, ought to be lifted.",welfare_state_family,ch,20,1030001,en,ch20,False,True,False,False,False,translated
+ch_21_1010001_en,The reform of the occupational pension plan (BVG) includes a proposal to decrease pensions by reducing the minimum conversion rate from 6.8% to 6%.,welfare_state_family,ch,21,1010001,en,ch21,False,True,False,False,False,translated
+ch_21_1020001_en,"Under the proposed changes to the BVG, there is a plan to cut pensions by adjusting the minimum conversion rate down to 6% from 6.8%.",welfare_state_family,ch,21,1020001,en,ch21,False,True,False,False,False,translated
+ch_21_1030001_en,"In the occupational pension scheme reform, it is suggested that pensions be diminished by altering the minimum conversion rate from 6.8% to 6%.",welfare_state_family,ch,21,1030001,en,ch21,False,True,False,False,False,translated
+ch_22_1010001_en,There is a need to extend paid parental leave beyond the current 14-week maternity and two-week paternity entitlements.,welfare_state_family,ch,22,1010001,en,ch22,False,True,False,False,False,translated
+ch_22_1020001_en,The duration of paid parental leave must be expanded to exceed the existing 14 weeks for maternity and two weeks for paternity.,welfare_state_family,ch,22,1020001,en,ch22,False,True,False,False,False,translated
+ch_22_1030001_en,The provision for paid parental leave must be enhanced from the current 14 weeks allocated for maternity and two weeks for paternity.,welfare_state_family,ch,22,1030001,en,ch22,False,True,False,False,False,translated
+ch_23_1010011_en,There is a necessity for the federal government to boost financial assistance for the construction of public housing.,welfare_state_family,ch,23,1010011,en,ch23,False,True,False,False,False,translated
+ch_23_1020011_en,Increased funding for public housing construction should come from the federal government.,welfare_state_family,ch,23,1020011,en,ch23,False,True,False,False,False,translated
+ch_23_1030011_en,The federal government needs to amplify its financial backing for the development of public housing projects.,welfare_state_family,ch,23,1030011,en,ch23,False,True,False,False,False,translated
+ch_24_1010001_en,Mandatory immunization for children following the Swiss vaccination schedule should be implemented.,health,ch,24,1010001,en,ch24,False,True,False,False,False,translated
+ch_24_1020001_en,The Swiss vaccination agenda should serve as the basis for enforcing mandatory childhood vaccinations.,health,ch,24,1020001,en,ch24,False,True,False,False,False,translated
+ch_24_1030001_en,Children's vaccinations ought to be made obligatory in accordance with the guidelines of the Swiss vaccination strategy.,health,ch,24,1030001,en,ch24,False,True,False,False,False,translated
+ch_25_1010011_en,A tax on sugary foods (sugar tax) should be established.,health,ch,25,1010011,en,ch25,False,True,False,False,False,translated
+ch_25_1020011_en,The government needs to implement a taxation policy on sugar-laden foods.,health,ch,25,1020011,en,ch25,False,True,False,False,False,translated
+ch_25_1030011_en,Introducing a fiscal measure on foods with added sugar is a necessary step.,health,ch,25,1030011,en,ch25,False,True,False,False,False,translated
+ch_26_1010001_en,"It is necessary for individuals with health insurance to pay a higher share of their medical expenses, such as raising the minimum deductible.",health,ch,26,1010001,en,ch26,False,True,False,False,False,translated
+ch_26_1020001_en,"There should be an increase in the financial contribution towards healthcare expenses from those who are insured, for instance by increasing the deductible.",health,ch,26,1020001,en,ch26,False,True,False,False,False,translated
+ch_26_1030001_en,The minimum deductible in health care plans for insured members ought to be elevated to ensure greater personal contribution to healthcare costs.,health,ch,26,1030001,en,ch26,False,True,False,False,False,translated
+ch_27_1010001_en,Restrictions on personal freedoms and economic activities by the Federal Council during pandemics should be subject to greater limitations.,health,ch,27,1010001,en,ch27,False,True,False,False,False,translated
+ch_27_1020001_en,"In times of a pandemic, the powers of the Federal Council to curb private and commercial activities need to be more constrained.",health,ch,27,1020001,en,ch27,False,True,False,False,False,translated
+ch_27_1030001_en,The Federal Council should face tighter constraints when it comes to impeding private and economic liberties during a health crisis.,health,ch,27,1030001,en,ch27,False,True,False,False,False,translated
+ch_28_1010001_en,"It should be within the federal government’s remit to dictate hospital provisions, including service scope and site locations.",health,ch,28,1010001,en,ch28,False,True,False,False,False,translated
+ch_28_1020001_en,"The responsibility for national hospital planning, particularly concerning service offerings and geographic placement, ought to be vested in the federal government.",health,ch,28,1020001,en,ch28,False,True,False,False,False,translated
+ch_28_1030001_en,Granting the federal government the power to outline the offerings of hospitals should be considered for efficient national healthcare planning.,health,ch,28,1030001,en,ch28,False,True,False,False,False,translated
+ch_29_1010001_en,The Swiss model of inclusive education advocates for the instruction of children with disabilities or learning challenges within mainstream classrooms.,education,ch,29,1010001,en,ch29,False,True,False,False,False,translated
+ch_29_1020001_en,"Under the Swiss inclusive education framework, it is advised that students facing learning difficulties are educated alongside their peers in standard class settings.",education,ch,29,1020001,en,ch29,False,True,False,False,False,translated
+ch_29_1030001_en,The Swiss approach to integrated schooling endorses the idea that regular classes should include children with learning disabilities or challenges.,education,ch,29,1030001,en,ch29,False,True,False,False,False,translated
+ch_30_1010011_en,Higher academic standards for high school admission should be set by the federal government.,education,ch,30,1010011,en,ch30,False,True,False,False,False,translated
+ch_30_1020011_en,The federal government is urged to increase the criteria for high school education.,education,ch,30,1020011,en,ch30,False,True,False,False,False,translated
+ch_30_1030011_en,There should be an elevation of high school eligibility requirements by the federal government.,education,ch,30,1030011,en,ch30,False,True,False,False,False,translated
+ch_31_1010011_en,"The government should show a stronger dedication to ensuring educational equity, such as by offering financial support for supplementary courses for economically disadvantaged students.",education,ch,31,1010011,en,ch31,False,True,False,False,False,translated
+ch_31_1020011_en,"To achieve educational fairness, the state should intensify its efforts, for instance, by providing subsidized tutoring for pupils from families with low income.",education,ch,31,1020011,en,ch31,False,True,False,False,False,translated
+ch_31_1030011_en,"Enhanced state involvement is necessary to guarantee equal access to education, which could include financial aid for remedial classes for underprivileged students.",education,ch,31,1030011,en,ch31,False,True,False,False,False,translated
+ch_32_1010011_en,"The requirements for becoming a naturalized citizen, like the duration of residency, should be made less stringent.",migration_integration,ch,32,1010011,en,ch32,False,True,False,False,False,translated
+ch_32_1020011_en,"There should be an easing of the naturalization process, potentially by reducing the necessary period of residency.",migration_integration,ch,32,1020011,en,ch32,False,True,False,False,False,translated
+ch_32_1030011_en,"Naturalization criteria, including the length of time residents must live in the country, ought to be softened.",migration_integration,ch,32,1030011,en,ch32,False,True,False,False,False,translated
+ch_33_1010001_en,Switzerland should permit a higher number of skilled professionals from countries outside the EU/EFTA to work within its borders.,migration_integration,ch,33,1010001,en,ch33,False,True,False,False,False,translated
+ch_33_1020001_en,The quota for skilled laborers from non-EU/EFTA nations seeking employment in Switzerland needs to be expanded.,migration_integration,ch,33,1020001,en,ch33,False,True,False,False,False,translated
+ch_33_1030001_en,There ought to be an enlargement of the employment quota for expert workers from countries not part of the EU/EFTA.,migration_integration,ch,33,1030001,en,ch33,False,True,False,False,False,translated
+ch_34_1010001_en,Initiatives should be taken to accommodate asylum seekers in facilities located beyond European borders throughout their application process.,migration_integration,ch,34,1010001,en,ch34,False,True,False,False,False,translated
+ch_34_1020001_en,The housing of asylum applicants should be arranged in centers situated outside of Europe while their claims are being processed.,migration_integration,ch,34,1020001,en,ch34,False,True,False,False,False,translated
+ch_34_1030001_en,"During the determination of their asylum status, seekers should be provided with accommodation in regions outside Europe.",migration_integration,ch,34,1030001,en,ch34,False,True,False,False,False,translated
+ch_35_1010001_en,Non-Swiss residents with at least a decade of life in Switzerland ought to be afforded municipal voting and candidacy rights.,migration_integration,ch,35,1010001,en,ch35,False,True,False,False,False,translated
+ch_35_1020001_en,"After residing in Switzerland for ten years, foreign citizens should be entitled to participate in municipal elections, both as voters and candidates.",migration_integration,ch,35,1020001,en,ch35,False,True,False,False,False,translated
+ch_35_1030001_en,The privilege to engage in municipal-level voting and electoral candidacy should be conferred upon international residents after ten years of Swiss residency.,migration_integration,ch,35,1030001,en,ch35,False,True,False,False,False,translated
+ch_36_1010011_en,The consumption of cannabis ought to be made lawful.,society_ethics,ch,36,1010011,en,ch36,False,True,False,False,False,translated
+ch_36_1020011_en,There should be a legal framework established for the use of cannabis.,society_ethics,ch,36,1020011,en,ch36,False,True,False,False,False,translated
+ch_36_1030011_en,Legalization should be applied to the usage of cannabis.,society_ethics,ch,36,1030011,en,ch36,False,True,False,False,False,translated
+ch_37_1010011_en,Physicians ought to have the authorization to perform direct active euthanasia.,society_ethics,ch,37,1010011,en,ch37,False,True,False,False,False,translated
+ch_37_1020011_en,The medical protocol should include provisions for doctors to engage in direct active euthanasia.,society_ethics,ch,37,1020011,en,ch37,False,True,False,False,False,translated
+ch_37_1030011_en,It should be permissible for medical practitioners to carry out direct active euthanasia.,society_ethics,ch,37,1030011,en,ch37,False,True,False,False,False,translated
+ch_38_1010011_en,An additional gender option should be officially recognized in addition to 'female' and 'male'.,society_ethics,ch,38,1010011,en,ch38,False,True,False,False,False,translated
+ch_38_1020011_en,The official classification of gender should be expanded to include a third category beyond 'male' and 'female'.,society_ethics,ch,38,1020011,en,ch38,False,True,False,False,False,translated
+ch_38_1030011_en,The establishment of a third gender status should be acknowledged officially alongside 'male' and 'female'.,society_ethics,ch,38,1030011,en,ch38,False,True,False,False,False,translated
+ch_39_1010011_en,"Equal rights across all domains should be granted to same-sex partnerships, mirroring those of opposite-sex couples.",society_ethics,ch,39,1010011,en,ch39,False,True,False,False,False,translated
+ch_39_1020011_en,Same-sex couples ought to be entitled to identical legal rights as their heterosexual counterparts in every aspect.,society_ethics,ch,39,1020011,en,ch39,False,True,False,False,False,translated
+ch_39_1030011_en,"In every field, the rights of same-sex couples should be on par with those of heterosexual pairs.",society_ethics,ch,39,1030011,en,ch39,False,True,False,False,False,translated
+ch_40_1010001_en,"Over the forthcoming four years, a reduction in federal taxes should be implemented.",finance_taxes,ch,40,1010001,en,ch40,False,True,False,False,False,translated
+ch_40_1020001_en,The next four years should see a phased reduction of federal tax rates.,finance_taxes,ch,40,1020001,en,ch40,False,True,False,False,False,translated
+ch_40_1030001_en,A policy to decrease taxes at the federal tier should be introduced across a four-year timeframe.,finance_taxes,ch,40,1030001,en,ch40,False,True,False,False,False,translated
+ch_41_1010011_en,Spouses should have the option to be taxed independently of each other.,finance_taxes,ch,41,1010011,en,ch41,False,True,False,False,False,translated
+ch_41_1020011_en,The tax system should be reformed to allow for the separate taxation of individuals in a marriage.,finance_taxes,ch,41,1020011,en,ch41,False,True,False,False,False,translated
+ch_41_1030011_en,Taxation should be applied on an individual basis to each member of a married couple.,finance_taxes,ch,41,1030011,en,ch41,False,True,False,False,False,translated
+ch_42_1010001_en,A federal inheritance tax should be levied on all estates exceeding the value of one million Swiss francs.,finance_taxes,ch,42,1010001,en,ch42,False,True,False,False,False,translated
+ch_42_1020001_en,"For inheritances surpassing a million Swiss francs, a new nationwide tax should be enacted.",finance_taxes,ch,42,1020001,en,ch42,False,True,False,False,False,translated
+ch_42_1030001_en,An inheritance tax at the national level on amounts over one million Swiss francs should be established.,finance_taxes,ch,42,1030001,en,ch42,False,True,False,False,False,translated
+ch_43_1010001_en,Fiscal parity measures should be strengthened to minimize the financial disparities between wealthier and less affluent cantons.,finance_taxes,ch,43,1010001,en,ch43,False,True,False,False,False,translated
+ch_43_1020001_en,Efforts to achieve fiscal equalization should be intensified to narrow the economic gap between cantons of varying fiscal capacities.,finance_taxes,ch,43,1020001,en,ch43,False,True,False,False,False,translated
+ch_43_1030001_en,"To lessen the economic divide among cantons, enhanced fiscal equalization strategies should be adopted.",finance_taxes,ch,43,1030001,en,ch43,False,True,False,False,False,translated
+ch_44_1010001_en,"Full-time workers should be guaranteed a baseline salary of CHF 4,000.",economy_labor,ch,44,1010001,en,ch44,False,True,False,False,False,translated
+ch_44_1020001_en,"There should be a set minimum salary threshold of CHF 4,000 for full-time employment positions.",economy_labor,ch,44,1020001,en,ch44,False,True,False,False,False,translated
+ch_44_1030001_en,"The introduction of a CHF 4,000 minimum wage for full-time staff should be mandated.",economy_labor,ch,44,1030001,en,ch44,False,True,False,False,False,translated
+ch_45_1010011_en,"Enhanced regulatory measures, including increased capital demands for banks and a prohibition on bonuses, should be imposed on the finance industry.",economy_labor,ch,45,1010011,en,ch45,False,True,False,False,False,translated
+ch_45_1020011_en,"The financial industry should be subject to more rigorous controls, such as tighter banking capital requisites and a bonus ban.",economy_labor,ch,45,1020011,en,ch45,False,True,False,False,False,translated
+ch_45_1030011_en,"Financial sector oversight should be tightened, with rules like more stringent bank capital requirements and an elimination of bonus incentives.",economy_labor,ch,45,1030011,en,ch45,False,True,False,False,False,translated
+ch_46_1010011_en,"The electricity market should be fully liberalized, allowing households to select their power providers.",economy_labor,ch,46,1010011,en,ch46,False,True,False,False,False,translated
+ch_46_1020011_en,Households should have the autonomy to decide on their electricity provider in a completely liberalized market.,economy_labor,ch,46,1020011,en,ch46,False,True,False,False,False,translated
+ch_46_1030011_en,A fully deregulated electricity market should empower consumers to choose their own electricity supplier.,economy_labor,ch,46,1030011,en,ch46,False,True,False,False,False,translated
+ch_47_1010011_en,"The rules governing the building of homes, such as those related to sound insulation and the number of occupants, should be made more lenient.",economy_labor,ch,47,1010011,en,ch47,False,True,False,False,False,translated
+ch_47_1020011_en,"There should be a loosening of housing construction standards, including aspects like acoustic shielding and resident density.",economy_labor,ch,47,1020011,en,ch47,False,True,False,False,False,translated
+ch_47_1030011_en,"Building codes for residential construction need to be softened, especially regulations on noise control and occupancy levels.",economy_labor,ch,47,1030011,en,ch47,False,True,False,False,False,translated
+ch_48_1010011_en,More rigorous enforcement of gender pay equity is necessary.,economy_labor,ch,48,1010011,en,ch48,False,True,False,False,False,translated
+ch_48_1020011_en,Enhanced measures to ensure equal compensation for men and women should be implemented.,economy_labor,ch,48,1020011,en,ch48,False,True,False,False,False,translated
+ch_48_1030011_en,The monitoring of equal salary distribution between genders needs to be intensified.,economy_labor,ch,48,1030011,en,ch48,False,True,False,False,False,translated
+ch_49_1010011_en,High-traffic areas of motorways need to be expanded.,energy_transportation,ch,49,1010011,en,ch49,False,True,False,False,False,translated
+ch_49_1020011_en,Congested segments of the highway system require widening.,energy_transportation,ch,49,1020011,en,ch49,False,True,False,False,False,translated
+ch_49_1030011_en,It is necessary to broaden the lanes in areas of the highway that experience heavy use.,energy_transportation,ch,49,1030011,en,ch49,False,True,False,False,False,translated
+ch_50_1010001_en,"From 2035 onwards, Switzerland should prohibit the registration of new cars that operate on internal combustion engines.",energy_transportation,ch,50,1010001,en,ch50,False,True,False,False,False,translated
+ch_50_1020001_en,A prohibition on the registration of new gasoline and diesel cars in Switzerland should take effect in 2035.,energy_transportation,ch,50,1020001,en,ch50,False,True,False,False,False,translated
+ch_50_1030001_en,The Swiss government should enforce a ban on registering new vehicles with traditional combustion engines beginning 2035.,energy_transportation,ch,50,1030001,en,ch50,False,True,False,False,False,translated
+ch_51_1010011_en,The attainment of climate goals should be pursued solely through the use of incentives and negotiated targets instead of employing prohibitions and limitations.,energy_transportation,ch,51,1010011,en,ch51,False,True,False,False,False,translated
+ch_51_1020011_en,"Rather than imposing bans and limitations, climate objectives should be met by exclusively focusing on motivational incentives and target-based compacts.",energy_transportation,ch,51,1020011,en,ch51,False,True,False,False,False,translated
+ch_51_1030011_en,"The strategy to hit climate milestones should hinge only on positive inducements and goal-oriented accords, avoiding the use of bans and constraints.",energy_transportation,ch,51,1030011,en,ch51,False,True,False,False,False,translated
+ch_52_1010011_en,Easing regulations on environmental and scenic conservation to facilitate renewable energy projects is a justified action.,energy_transportation,ch,52,1010011,en,ch52,False,True,False,False,False,translated
+ch_52_1020011_en,It is equitable to modify conservation laws of the environment and landscapes in favor of advancing renewable energy initiatives.,energy_transportation,ch,52,1020011,en,ch52,False,True,False,False,False,translated
+ch_52_1030011_en,The softening of environmental and landscape safeguarding regulations is a reasonable trade-off for promoting renewable energy sources.,energy_transportation,ch,52,1030011,en,ch52,False,True,False,False,False,translated
+ch_53_1010011_en,Authorities should reinstate the permission to build new nuclear energy facilities.,energy_transportation,ch,53,1010011,en,ch53,False,True,False,False,False,translated
+ch_53_1020011_en,The ban on constructing new nuclear reactors ought to be lifted.,energy_transportation,ch,53,1020011,en,ch53,False,True,False,False,False,translated
+ch_53_1030011_en,Legislation should be revised to permit the erection of new nuclear power stations.,energy_transportation,ch,53,1030011,en,ch53,False,True,False,False,False,translated
+ch_54_1010001_en,It is imperative that the state ensures the availability of extensive public services in countryside areas as well.,energy_transportation,ch,54,1010001,en,ch54,False,True,False,False,False,translated
+ch_54_1020001_en,The provision of a wide range of public amenities in rural areas should be secured by the government.,energy_transportation,ch,54,1020001,en,ch54,False,True,False,False,False,translated
+ch_54_1030001_en,"A full suite of public services should be maintained by the state across all regions, including rural locales.",energy_transportation,ch,54,1030001,en,ch54,False,True,False,False,False,translated
+ch_55_1010011_en,A tiered electricity pricing system that escalates with higher usage should be established.,energy_transportation,ch,55,1010011,en,ch55,False,True,False,False,False,translated
+ch_55_1020011_en,"Progressive tariff rates for electricity, which rise with increased consumption, ought to be implemented.",energy_transportation,ch,55,1020011,en,ch55,False,True,False,False,False,translated
+ch_55_1030011_en,There should be a roll-out of scaled electricity tariffs that increase in line with greater consumption levels.,energy_transportation,ch,55,1030011,en,ch55,False,True,False,False,False,translated
+ch_56_1010011_en,"Conservation laws for major predatory animals such as lynxes, wolves, and bears need to be moderated.",environ_protection,ch,56,1010011,en,ch56,False,True,False,False,False,translated
+ch_56_1020011_en,The stringent protective measures for apex predators should be eased.,environ_protection,ch,56,1020011,en,ch56,False,True,False,False,False,translated
+ch_56_1030011_en,"It's time to soften the legislative protections afforded to large carnivores like the lynx, wolf, and bear.",environ_protection,ch,56,1030011,en,ch56,False,True,False,False,False,translated
+ch_57_1010001_en,Financial subsidies ought to be exclusively allocated to agriculturists who can demonstrate environmental stewardship.,environ_protection,ch,57,1010001,en,ch57,False,True,False,False,False,translated
+ch_57_1020001_en,Only those farmers who show evidence of eco-friendly practices should receive government subsidies.,environ_protection,ch,57,1020001,en,ch57,False,True,False,False,False,translated
+ch_57_1030001_en,Agricultural grants should be reserved for those who provide verification of their eco-efficient operations.,environ_protection,ch,57,1030001,en,ch57,False,True,False,False,False,translated
+ch_58_1010011_en,"Livestock should be guaranteed stricter welfare standards, such as continuous access to open spaces.",environ_protection,ch,58,1010011,en,ch58,False,True,False,False,False,translated
+ch_58_1020011_en,"Enhanced animal welfare policies, including the requirement of constant outdoor access for livestock, must be implemented.",environ_protection,ch,58,1020011,en,ch58,False,True,False,False,False,translated
+ch_58_1030011_en,"The law should enforce more rigorous standards for the well-being of farm animals, mandating unfettered outdoor access.",environ_protection,ch,58,1030011,en,ch58,False,True,False,False,False,translated
+ch_59_1010001_en,Switzerland should allocate a third of its territory to the conservation of diverse biological species.,environ_protection,ch,59,1010001,en,ch59,False,True,False,False,False,translated
+ch_59_1020001_en,It's proposed that 30% of Swiss land be reserved for the maintenance of ecological diversity.,environ_protection,ch,59,1020001,en,ch59,False,True,False,False,False,translated
+ch_59_1030001_en,A commitment to set aside 30% of the land in Switzerland for biodiversity preservation should be made.,environ_protection,ch,59,1030001,en,ch59,False,True,False,False,False,translated
+ch_0_1010011_en,A prohibition on plastics designed for one-time use and those that cannot be recycled should be enacted.,environ_protection,ch,0,1010011,en,ch0,False,True,False,False,False,translated
+ch_0_1020011_en,The use of disposable plastics and those that defy recycling processes ought to be outlawed.,environ_protection,ch,0,1020011,en,ch0,False,True,False,False,False,translated
+ch_0_1030011_en,Legislation is needed to eliminate the circulation of single-use and non-reusable plastic materials.,environ_protection,ch,0,1030011,en,ch0,False,True,False,False,False,translated
+ch_1_1010011_en,"Governmental action is necessary to ensure the sustainability of electronics, including policies on repair rights, extended warranties, and guaranteed update timelines.",environ_protection,ch,1,1010011,en,ch1,False,True,False,False,False,translated
+ch_1_1020011_en,"Policies to prolong the lifecycle of electronic gadgets, such as repair privileges and extended software support, should be standard.",environ_protection,ch,1,1020011,en,ch1,False,True,False,False,False,translated
+ch_1_1030011_en,It's imperative to have state-level interventions to reinforce sustainable consumption of digital devices via repair entitlements and prolonged warranty and update assurances.,environ_protection,ch,1,1030011,en,ch1,False,True,False,False,False,translated
+ch_2_1010001_en,"The entire Swiss cellular infrastructure should be upgraded to the most advanced tech available, such as the 5G network.",democracy_media_digit,ch,2,1010001,en,ch2,False,True,False,False,False,translated
+ch_2_1020001_en,"Nationwide implementation of the latest mobile network technology, like the 5G protocol, should be a priority in Switzerland.",democracy_media_digit,ch,2,1020001,en,ch2,False,True,False,False,False,translated
+ch_2_1030001_en,"Switzerland's mobile communication network ought to be universally enhanced to the cutting-edge standard, which is 5G at present.",democracy_media_digit,ch,2,1030001,en,ch2,False,True,False,False,False,translated
+ch_3_1010001_en,The central government requires broader authority to enforce compulsory guidelines and norms on the cantons for digital government service improvements.,democracy_media_digit,ch,3,1010001,en,ch3,False,True,False,False,False,translated
+ch_3_1020001_en,Additional authority should be vested in the federal government to dictate mandatory digital standards and instructions across the cantons.,democracy_media_digit,ch,3,1020001,en,ch3,False,True,False,False,False,translated
+ch_3_1030001_en,"In digitalizing public services, the federal administration should be empowered to set and mandate uniform protocols for the cantons.",democracy_media_digit,ch,3,1030001,en,ch3,False,True,False,False,False,translated
+ch_4_1010011_en,"Major online platforms must face tighter controls, such as transparent algorithmic processes, greater content accountability, and a firm stance against misinformation.",democracy_media_digit,ch,4,1010011,en,ch4,False,True,False,False,False,translated
+ch_4_1020011_en,"Enhanced oversight of significant digital platforms is required, including clear algorithmic disclosure, heightened content responsibility, and vigorous disinformation deterrence.",democracy_media_digit,ch,4,1020011,en,ch4,False,True,False,False,False,translated
+ch_4_1030011_en,"Stricter governance is necessary for large web platforms, ensuring algorithm transparency, amplified content liability, and proactive misinformation combat strategies.",democracy_media_digit,ch,4,1030011,en,ch4,False,True,False,False,False,translated
+ch_5_1010001_en,"A citizen-driven campaign is proposed to lower the costs of television and radio services to CHF 200 for households, with a waiver for companies.",democracy_media_digit,ch,5,1010001,en,ch5,False,True,False,False,False,translated
+ch_5_1020001_en,A grassroots movement should be established to cut broadcast fees to CHF 200 for residential units and grant an exemption to businesses.,democracy_media_digit,ch,5,1020001,en,ch5,False,True,False,False,False,translated
+ch_5_1030001_en,"The public should initiate a movement to decrease the TV and radio levy to CHF 200 for private homes, while businesses should be exempt.",democracy_media_digit,ch,5,1030001,en,ch5,False,True,False,False,False,translated
+ch_6_1010011_en,The legal age for voting ought to be reduced to 16 years.,democracy_media_digit,ch,6,1010011,en,ch6,False,True,False,False,False,translated
+ch_6_1020011_en,It is proposed to decrease the eligibility age for voting to sixteen.,democracy_media_digit,ch,6,1020011,en,ch6,False,True,False,False,False,translated
+ch_6_1030011_en,The minimum age requirement for voters should be adjusted to 16.,democracy_media_digit,ch,6,1030011,en,ch6,False,True,False,False,False,translated
+ch_7_1010011_en,Citizens should have the option to call for a vote on government expenditures that exceed a predetermined threshold.,democracy_media_digit,ch,7,1010011,en,ch7,False,True,False,False,False,translated
+ch_7_1020011_en,There should be a provision for a public vote on high-level federal financial transactions (known as the optional financial referendum).,democracy_media_digit,ch,7,1020011,en,ch7,False,True,False,False,False,translated
+ch_7_1030011_en,A mechanism for a popular vote should be established to scrutinize federal expenditure surpassing a specific limit.,democracy_media_digit,ch,7,1030011,en,ch7,False,True,False,False,False,translated
+ch_8_1010001_en,"The military should aim to increase its ranks to a minimum of 120,000 personnel.",security_armed_forces,ch,8,1010001,en,ch8,False,True,False,False,False,translated
+ch_8_1020001_en,"It's proposed that the army's strength be bolstered to reach a baseline of 120,000 soldiers.",security_armed_forces,ch,8,1020001,en,ch8,False,True,False,False,False,translated
+ch_8_1030001_en,"The goal for army enlistment should be set at no less than 120,000 soldiers.",security_armed_forces,ch,8,1030001,en,ch8,False,True,False,False,False,translated
+ch_9_1010001_en,Collaboration between the Swiss Armed Forces and NATO should be intensified.,security_armed_forces,ch,9,1010001,en,ch9,False,True,False,False,False,translated
+ch_9_1020001_en,It is advisable for Switzerland's military to enhance its joint initiatives with NATO.,security_armed_forces,ch,9,1020001,en,ch9,False,True,False,False,False,translated
+ch_9_1030001_en,The Swiss military should pursue greater collaborative efforts with the North Atlantic Treaty Organization.,security_armed_forces,ch,9,1030001,en,ch9,False,True,False,False,False,translated
+ch_10_1010001_en,"In instances of internationally unlawful aggression, such as the invasion of Ukraine, the Federal Council ought to permit the re-exportation of Swiss arms by other nations.",security_armed_forces,ch,10,1010001,en,ch10,False,True,False,False,False,translated
+ch_10_1020001_en,The Federal Council needs the power to grant permissions for the re-export of Swiss arms to other countries during wars that breach international law.,security_armed_forces,ch,10,1020001,en,ch10,False,True,False,False,False,translated
+ch_10_1030001_en,"When international law is defied by aggressive warfare, the Federal Council should have the authority to approve the re-export of Swiss weaponry by other states.",security_armed_forces,ch,10,1030001,en,ch10,False,True,False,False,False,translated
+ch_11_1010011_en,The use of automated facial recognition technology in public areas should be prohibited.,security_armed_forces,ch,11,1010011,en,ch11,False,True,False,False,False,translated
+ch_11_1020011_en,Public deployment of automatic facial recognition systems ought to be outlawed.,security_armed_forces,ch,11,1020011,en,ch11,False,True,False,False,False,translated
+ch_11_1030011_en,There should be a prohibition on the implementation of facial recognition software in communal spaces.,security_armed_forces,ch,11,1030011,en,ch11,False,True,False,False,False,translated
+ch_12_1010001_en,Switzerland ought to withdraw from the Schengen accord with the European Union and reinstate enhanced border security checks.,security_armed_forces,ch,12,1010001,en,ch12,False,True,False,False,False,translated
+ch_12_1020001_en,It's advocated that Switzerland cancel its participation in the Schengen treaty and apply stricter border control measures.,security_armed_forces,ch,12,1020001,en,ch12,False,True,False,False,False,translated
+ch_12_1030001_en,The Swiss should opt out of the Schengen deal and implement more rigorous security screenings at the borders.,security_armed_forces,ch,12,1030001,en,ch12,False,True,False,False,False,translated
+ch_13_1010001_en,Strengthening ties with the European Union should be pursued.,foreign_relations,ch,13,1010001,en,ch13,False,True,False,False,False,translated
+ch_13_1020001_en,It is suggested that Switzerland should seek to deepen its relationship with the EU.,foreign_relations,ch,13,1020001,en,ch13,False,True,False,False,False,translated
+ch_13_1030001_en,An initiative to forge tighter connections with the European Union is recommended.,foreign_relations,ch,13,1030001,en,ch13,False,True,False,False,False,translated
+ch_14_1010001_en,"A wide-ranging free trade deal with the United States, encompassing agricultural products, should be a Swiss objective.",foreign_relations,ch,14,1010001,en,ch14,False,True,False,False,False,translated
+ch_14_1020001_en,The pursuit of an all-inclusive trade agreement that includes agriculture with the U.S. should be on Switzerland's agenda.,foreign_relations,ch,14,1020001,en,ch14,False,True,False,False,False,translated
+ch_14_1030001_en,"Switzerland should work towards establishing a broad-based trade accord with America, agricultural sector included.",foreign_relations,ch,14,1030001,en,ch14,False,True,False,False,False,translated
+ch_15_1010011_en,Firms must be mandated to guarantee that their foreign affiliates and suppliers adhere to socio-environmental regulations.,foreign_relations,ch,15,1010011,en,ch15,False,True,False,False,False,translated
+ch_15_1020011_en,It is necessary for businesses to be responsible for their international subsidiaries and suppliers maintaining social and ecological norms.,foreign_relations,ch,15,1020011,en,ch15,False,True,False,False,False,translated
+ch_15_1030011_en,Corporations should be required to certify compliance with environmental and social standards by their overseas branches and suppliers.,foreign_relations,ch,15,1030011,en,ch15,False,True,False,False,False,translated
+ch_16_1010001_en,Switzerland ought to cancel its Bilateral Accords with the EU in favor of a free trade agreement excluding provisions for person's free movement.,foreign_relations,ch,16,1010001,en,ch16,False,True,False,False,False,translated
+ch_16_1020001_en,It's proposed that Switzerland should end the Bilateral Treaties with the European Union and negotiate a free trade deal that does not include the free movement of individuals.,foreign_relations,ch,16,1020001,en,ch16,False,True,False,False,False,translated
+ch_16_1030001_en,The Swiss should consider abrogating the Bilateral Contracts with the EU and aim for a trade agreement that doesn't encompass the unrestricted migration of people.,foreign_relations,ch,16,1030001,en,ch16,False,True,False,False,False,translated
+ch_17_1010001_en,Switzerland ought to revert to a rigid adherence to neutrality by largely stepping back from imposing economic sanctions.,foreign_relations,ch,17,1010001,en,ch17,False,True,False,False,False,translated
+ch_17_1020001_en,"It's imperative for Switzerland to uphold a stringent form of neutrality, which would entail significantly withdrawing from economic sanction practices.",foreign_relations,ch,17,1020001,en,ch17,False,True,False,False,False,translated
+ch_17_1030001_en,"The Swiss nation must go back to a firm enforcement of its neutral stance, essentially pulling away from the use of economic sanctions.",foreign_relations,ch,17,1030001,en,ch17,False,True,False,False,False,translated
+es_1_1010011_en,Curtailing certain liberties and rights is essential in the fight against organized crime.,security_armed_forces,es,1,1010011,en,es1,False,True,False,False,False,translated
+es_1_1020011_en,"In order to effectively tackle organized crime, it is crucial to impose restrictions on some freedoms and rights.",security_armed_forces,es,1,1020011,en,es1,False,True,False,False,False,translated
+es_1_1030011_en,The battle against organized crime warrants the necessity of restricting personal freedoms and rights.,security_armed_forces,es,1,1030011,en,es1,False,True,False,False,False,translated
+es_2_1010001_en,The expansion of Islam poses a security risk to Spain.,security_armed_forces,es,2,1010001,en,es2,False,True,False,False,False,translated
+es_2_1020001_en,The rise of Islamic influence is perceived as a danger to the safety of Spain.,security_armed_forces,es,2,1020001,en,es2,False,True,False,False,False,translated
+es_2_1030001_en,The increasing presence of Islam is seen as jeopardizing Spain's national security.,security_armed_forces,es,2,1030001,en,es2,False,True,False,False,False,translated
+es_3_1010001_en,Present gender-related policies disproportionately disadvantage men.,society_ethics,es,3,1010001,en,es3,False,True,False,False,False,translated
+es_3_1020001_en,The existing policies on gender issues seem to be prejudiced against males.,society_ethics,es,3,1020001,en,es3,False,True,False,False,False,translated
+es_3_1030001_en,Contemporary gender frameworks appear to have an unfair tilt against men.,society_ethics,es,3,1030001,en,es3,False,True,False,False,False,translated
+es_4_1010011_en,Privatizing public services leads to an enhancement in their efficiency.,economy_labor,es,4,1010011,en,es4,False,True,False,False,False,translated
+es_4_1020011_en,The performance of public utilities is often bettered when they are transferred to private ownership.,economy_labor,es,4,1020011,en,es4,False,True,False,False,False,translated
+es_4_1030011_en,Public service efficiency sees a significant improvement through privatization.,economy_labor,es,4,1030011,en,es4,False,True,False,False,False,translated
+es_5_1010011_en,There should be fewer obstacles for employers looking to dismiss employees.,economy_labor,es,5,1010011,en,es5,False,True,False,False,False,translated
+es_5_1020011_en,The process for businesses to terminate employment should be simplified.,economy_labor,es,5,1020011,en,es5,False,True,False,False,False,translated
+es_5_1030011_en,Companies need to have a more straightforward path to lay off workers.,economy_labor,es,5,1030011,en,es5,False,True,False,False,False,translated
+es_6_1010011_en,It is the state's responsibility to implement policies that transfer wealth from the affluent to the less fortunate.,finance_taxes,es,6,1010011,en,es6,False,True,False,False,False,translated
+es_6_1020011_en,Government interventions are necessary to shift economic resources from wealthy individuals to those in poverty.,finance_taxes,es,6,1020011,en,es6,False,True,False,False,False,translated
+es_6_1030011_en,The government must act to reallocate financial assets from the rich to the economically disadvantaged.,finance_taxes,es,6,1030011,en,es6,False,True,False,False,False,translated
+es_7_1010011_en,"The government is obliged to escalate its investment in public health services, even at the cost of higher taxes.",health,es,7,1010011,en,es7,False,True,False,False,False,translated
+es_7_1020011_en,"It is essential for the government to boost funding for public health, notwithstanding the requisite rise in tax rates.",health,es,7,1020011,en,es7,False,True,False,False,False,translated
+es_7_1030011_en,"Enhanced governmental expenditure in health care is imperative, despite it necessitating an increment in tax levies.",health,es,7,1030011,en,es7,False,True,False,False,False,translated
+es_8_1010011_en,An enduring levy on substantial wealth and assets is imperative.,finance_taxes,es,8,1010011,en,es8,False,True,False,False,False,translated
+es_8_1020011_en,There needs to be a continuous tax imposed on significant fortunes and property holdings.,finance_taxes,es,8,1020011,en,es8,False,True,False,False,False,translated
+es_8_1030011_en,It's essential to institute a lasting taxation on major assets and wealth.,finance_taxes,es,8,1030011,en,es8,False,True,False,False,False,translated
+es_9_1010011_en,Workers' hours ought to be shortened without a cut in their pay.,economy_labor,es,9,1010011,en,es9,False,True,False,False,False,translated
+es_9_1020011_en,The duration of the workday must be decreased while maintaining employee salaries.,economy_labor,es,9,1020011,en,es9,False,True,False,False,False,translated
+es_9_1030011_en,It is necessary to lessen the number of working hours without diminishing the wages of the workers.,economy_labor,es,9,1030011,en,es9,False,True,False,False,False,translated
+es_10_1010011_en,The economy should experience minimal interference from government actions.,economy_labor,es,10,1010011,en,es10,False,True,False,False,False,translated
+es_10_1020011_en,It's best for government involvement in economic matters to be kept to the barest minimum.,economy_labor,es,10,1020011,en,es10,False,True,False,False,False,translated
+es_10_1030011_en,The role of governments in the economy should be reduced as much as possible.,economy_labor,es,10,1030011,en,es10,False,True,False,False,False,translated
+es_11_1010011_en,Increasing the taxation on fossil fuels is necessary to fund the transition to sustainable energy.,environ_protection,es,11,1010011,en,es11,False,True,False,False,False,translated
+es_11_1020011_en,"To support the shift towards greener energy, there needs to be a hike in fossil fuel taxes.",environ_protection,es,11,1020011,en,es11,False,True,False,False,False,translated
+es_11_1030011_en,Elevating taxes on fossil fuels is essential to accumulate funds for the Green Transition.,environ_protection,es,11,1030011,en,es11,False,True,False,False,False,translated
+es_12_1010011_en,Human activities are the exclusive cause of climate change.,environ_protection,es,12,1010011,en,es12,False,True,False,False,False,translated
+es_12_1020011_en,The change in climate is entirely the result of human influence.,environ_protection,es,12,1020011,en,es12,False,True,False,False,False,translated
+es_12_1030011_en,Only human intervention is to blame for the shifts in climate.,environ_protection,es,12,1030011,en,es12,False,True,False,False,False,translated
+es_13_1010001_en,It's imperative that future administrations in Spain expand areas of irrigated farmland through extensive water redistribution.,economy_labor,es,13,1010001,en,es13,False,True,False,False,False,translated
+es_13_1020001_en,The upcoming government in Spain needs to grow the irrigation zones by implementing significant water transfer projects.,economy_labor,es,13,1020001,en,es13,False,True,False,False,False,translated
+es_13_1030001_en,Spain's forthcoming government authorities should augment irrigated agriculture by conducting major transfers of water.,economy_labor,es,13,1030001,en,es13,False,True,False,False,False,translated
+es_14_1010001_en,"To more effectively protect Spain's interests within Europe, regaining greater sovereignty is essential.",foreign_relations,es,14,1010001,en,es14,False,True,False,False,False,translated
+es_14_1020001_en,Enhancing Spain's position in Europe requires reclaiming increased levels of sovereignty.,foreign_relations,es,14,1020001,en,es14,False,True,False,False,False,translated
+es_14_1030001_en,"For the betterment of Spain's interests in the European context, it is crucial to regain a higher degree of sovereignty.",foreign_relations,es,14,1030001,en,es14,False,True,False,False,False,translated
+es_15_1010001_en,The government of Spain ought to advocate for bolstering NATO's presence in Europe.,security_armed_forces,es,15,1010001,en,es15,False,True,False,False,False,translated
+es_15_1020001_en,Spain should be a proponent of reinforcing the North Atlantic Treaty Organization within Europe.,security_armed_forces,es,15,1020001,en,es15,False,True,False,False,False,translated
+es_15_1030001_en,It's crucial for the Spanish administration to support the fortification of NATO's European framework.,security_armed_forces,es,15,1030001,en,es15,False,True,False,False,False,translated
+es_16_1010001_en,Resolving the Catalan dispute effectively means allowing its people to decide their destiny through a referendum.,democracy_media_digit,es,16,1010001,en,es16,False,True,False,False,False,translated
+es_16_1020001_en,A referendum for the citizens is the most suitable approach to address the contentious issues in Catalonia.,democracy_media_digit,es,16,1020001,en,es16,False,True,False,False,False,translated
+es_16_1030001_en,The ideal resolution for Catalonia's conflict is to permit its population to vote on their future status.,democracy_media_digit,es,16,1030001,en,es16,False,True,False,False,False,translated
+es_17_1010001_en,Dialogue with advocates of independence undercuts the authority of the State.,democracy_media_digit,es,17,1010001,en,es17,False,True,False,False,False,translated
+es_17_1020001_en,The State's position is diminished when it enters into negotiations with pro-secession factions.,democracy_media_digit,es,17,1020001,en,es17,False,True,False,False,False,translated
+es_17_1030001_en,Engaging in talks with those favoring independence erodes the strength of the State.,democracy_media_digit,es,17,1030001,en,es17,False,True,False,False,False,translated
+es_18_1010001_en,There's a need to further enhance the devolution of powers within Spain's regions.,democracy_media_digit,es,18,1010001,en,es18,False,True,False,False,False,translated
+es_18_1020001_en,It's essential to intensify the degree of administrative autonomy across Spanish territories.,democracy_media_digit,es,18,1020001,en,es18,False,True,False,False,False,translated
+es_18_1030001_en,Spain must commit to a more profound level of decentralization within its territorial divisions.,democracy_media_digit,es,18,1030001,en,es18,False,True,False,False,False,translated
+es_19_1010001_en,The Constitution should acknowledge the right of self-determination.,democracy_media_digit,es,19,1010001,en,es19,False,True,False,False,False,translated
+es_19_1020001_en,It is necessary for the Constitution to enshrine the principle of self-determination.,democracy_media_digit,es,19,1020001,en,es19,False,True,False,False,False,translated
+es_19_1030001_en,The national Constitution needs to formally recognize the entitlement to self-determination.,democracy_media_digit,es,19,1030001,en,es19,False,True,False,False,False,translated
+es_20_1010001_en,The practice of immersing students in regional languages within bilingual regions threatens the status of the Spanish language.,society_ethics,es,20,1010001,en,es20,False,True,False,False,False,translated
+es_20_1020001_en,Bilingual regions' focus on native language immersion could potentially undermine the prevalence of Spanish.,society_ethics,es,20,1020001,en,es20,False,True,False,False,False,translated
+es_20_1030001_en,The strategy of deep linguistic immersion in local languages within bilingual areas poses a risk to the Spanish language.,society_ethics,es,20,1030001,en,es20,False,True,False,False,False,translated
+es_21_1010001_en,The revocation of the recently passed Democratic Memory Law is essential.,democracy_media_digit,es,21,1010001,en,es21,False,True,False,False,False,translated
+es_21_1020001_en,There's a pressing need to annul the Democratic Memory Law enacted by this legislative body.,democracy_media_digit,es,21,1020001,en,es21,False,True,False,False,False,translated
+es_21_1030001_en,"The Democratic Memory Law, instituted by this legislature, must be rescinded.",democracy_media_digit,es,21,1030001,en,es21,False,True,False,False,False,translated
+es_22_1010001_en,Spain ought to adopt a more lenient stance on irregular immigration.,migration_integration,es,22,1010001,en,es22,False,True,False,False,False,translated
+es_22_1020001_en,A more forgiving approach to unauthorized migration is needed in Spain.,migration_integration,es,22,1020001,en,es22,False,True,False,False,False,translated
+es_22_1030001_en,It's important for Spain to exercise greater tolerance toward undocumented migrants.,migration_integration,es,22,1030001,en,es22,False,True,False,False,False,translated
+es_23_1010011_en,Immigrants ought to be responsible for their own healthcare expenses.,migration_integration,es,23,1010011,en,es23,False,True,False,False,False,translated
+es_23_1020011_en,It is proposed that immigrants should cover the costs of their healthcare services.,migration_integration,es,23,1020011,en,es23,False,True,False,False,False,translated
+es_23_1030011_en,The financial burden of health services should fall on the immigrants themselves.,migration_integration,es,23,1030011,en,es23,False,True,False,False,False,translated
+es_24_1010011_en,There needs to be control over housing costs to guarantee universal accessibility.,welfare_state_family,es,24,1010011,en,es24,False,True,False,False,False,translated
+es_24_1020011_en,Implementing regulations on property prices is necessary to provide housing access to everyone.,welfare_state_family,es,24,1020011,en,es24,False,True,False,False,False,translated
+es_24_1030011_en,The government must set regulations to control housing prices to ensure they are accessible for all citizens.,welfare_state_family,es,24,1030011,en,es24,False,True,False,False,False,translated
+de_1_1010011_en,All highways are to be subject to a universal speed restriction.,energy_transportation,de,1,1010011,en,de1,False,True,False,False,False,translated
+de_1_1020011_en,A standard speed limit will be enforced on every highway.,energy_transportation,de,1,1020011,en,de1,False,True,False,False,False,translated
+de_1_1030011_en,Highways will now come under a consistent speed regulation.,energy_transportation,de,1,1030011,en,de1,False,True,False,False,False,translated
+de_2_1010001_en,Germany plans to escalate its expenditure on defense.,security_armed_forces,de,2,1010001,en,de2,False,True,False,False,False,translated
+de_2_1020001_en,The German government will ramp up the funding for its military defense.,security_armed_forces,de,2,1020001,en,de2,False,True,False,False,False,translated
+de_2_1030001_en,Germany is set to boost its defense budget.,security_armed_forces,de,2,1030001,en,de2,False,True,False,False,False,translated
+de_3_1010001_en,Individuals aged 16 and above will be granted the right to vote in Bundestag polls.,democracy_media_digit,de,3,1010001,en,de3,False,True,False,False,False,translated
+de_3_1020001_en,The electorate for Bundestag elections will be expanded to include voters 16 years and older.,democracy_media_digit,de,3,1020001,en,de3,False,True,False,False,False,translated
+de_3_1030001_en,Voting rights in Bundestag elections will be extended to include those over 16 years of age.,democracy_media_digit,de,3,1030001,en,de3,False,True,False,False,False,translated
+de_4_1010001_en,The financial support for wind energy development is scheduled to be terminated.,energy_transportation,de,4,1010001,en,de4,False,True,False,False,False,translated
+de_4_1020001_en,Government funding for wind energy is to be discontinued.,energy_transportation,de,4,1020001,en,de4,False,True,False,False,False,translated
+de_4_1030001_en,The cessation of wind energy subsidies is forthcoming.,energy_transportation,de,4,1030001,en,de4,False,True,False,False,False,translated
+de_5_1010011_en,There will be stricter legal restrictions on landlords' capacity to raise rent prices.,welfare_state_family,de,5,1010011,en,de5,False,True,False,False,False,translated
+de_5_1020011_en,Landlords will face tougher legal constraints when attempting to hike rental rates.,welfare_state_family,de,5,1020011,en,de5,False,True,False,False,False,translated
+de_5_1030011_en,The law is to impose more severe limitations on rent increases by property owners.,welfare_state_family,de,5,1030011,en,de5,False,True,False,False,False,translated
+de_6_1010011_en,Patents will maintain protection over Covid-19 vaccines.,health,de,6,1010011,en,de6,False,True,False,False,False,translated
+de_6_1020011_en,The patent safeguarding of Covid-19 vaccines shall persist.,health,de,6,1020011,en,de6,False,True,False,False,False,translated
+de_6_1030011_en,Covid-19 vaccines shall remain under the protection of patent law.,health,de,6,1030011,en,de6,False,True,False,False,False,translated
+de_7_1010001_en,The scheduled cessation of coal power production for 2038 is to be advanced.,energy_transportation,de,7,1010001,en,de7,False,True,False,False,False,translated
+de_7_1020001_en,The planned discontinuation of coal-based electricity by 2038 is set to occur sooner.,energy_transportation,de,7,1020001,en,de7,False,True,False,False,False,translated
+de_7_1030001_en,"The target date for ending coal energy generation, initially set for 2038, is to be expedited.",energy_transportation,de,7,1030001,en,de7,False,True,False,False,False,translated
+de_8_1010011_en,It is to become mandatory for all working individuals to participate in the statutory retirement insurance program.,welfare_state_family,de,8,1010011,en,de8,False,True,False,False,False,translated
+de_8_1020011_en,Every employed individual will be obliged to have coverage under the legal pension scheme.,welfare_state_family,de,8,1020011,en,de8,False,True,False,False,False,translated
+de_8_1030011_en,Participation in the compulsory state pension insurance is to be a requirement for all employed people.,welfare_state_family,de,8,1030011,en,de8,False,True,False,False,False,translated
+de_9_1010001_en,The family reunification right for acknowledged refugees is to be terminated.,migration_integration,de,9,1010001,en,de9,False,True,False,False,False,translated
+de_9_1020001_en,The privilege allowing recognized refugees to bring their families is to be revoked.,migration_integration,de,9,1020001,en,de9,False,True,False,False,False,translated
+de_9_1030001_en,The provision for recognized refugees to be reunited with family members is to be eliminated.,migration_integration,de,9,1030001,en,de9,False,True,False,False,False,translated
+de_10_1010001_en,Revenue from digital services in Germany is to incur a domestic tax.,finance_taxes,de,10,1010001,en,de10,False,True,False,False,False,translated
+de_10_1020001_en,A tax within the nation is to be applied to digital service revenues earned in Germany.,finance_taxes,de,10,1020001,en,de10,False,True,False,False,False,translated
+de_10_1030001_en,Germany is to impose a national tax on the income derived from digital services within its borders.,finance_taxes,de,10,1030001,en,de10,False,True,False,False,False,translated
+de_11_1010011_en,There will be a stronger emphasis on the promotion of the traditional nuclear family over alternative family structures.,society_ethics,de,11,1010011,en,de11,False,True,False,False,False,translated
+de_11_1020011_en,"The conventional family model, comprising father, mother, and children, will receive increased endorsement compared to other domestic configurations.",society_ethics,de,11,1020011,en,de11,False,True,False,False,False,translated
+de_11_1030011_en,State support is to be intensified for traditional families relative to other forms of living arrangements.,society_ethics,de,11,1030011,en,de11,False,True,False,False,False,translated
+de_12_1010001_en,The practice of corporate contributions to political parties ought to be sustained.,democracy_media_digit,de,12,1010001,en,de12,False,True,False,False,False,translated
+de_12_1020001_en,There should be no cessation to the allowance of political donations by companies.,democracy_media_digit,de,12,1020001,en,de12,False,True,False,False,False,translated
+de_12_1030001_en,Political contributions from corporations are to remain acceptable.,democracy_media_digit,de,12,1030001,en,de12,False,True,False,False,False,translated
+de_13_1010001_en,Educational assistance through BAföG should be provided without consideration of parental earnings.,welfare_state_family,de,13,1010001,en,de13,False,True,False,False,False,translated
+de_13_1020001_en,BAföG funding for students should not be contingent on their parents' financial status.,welfare_state_family,de,13,1020001,en,de13,False,True,False,False,False,translated
+de_13_1030001_en,The grant of BAföG for students ought to be independent of the income level of their parents.,welfare_state_family,de,13,1030001,en,de13,False,True,False,False,False,translated
+de_14_1010001_en,The general allowance for a dual citizenship alongside German nationality should be possible in Germany.,migration_integration,de,14,1010001,en,de14,False,True,False,False,False,translated
+de_14_1020001_en,Germany should typically permit the holding of another nationality in conjunction with German citizenship.,migration_integration,de,14,1020001,en,de14,False,True,False,False,False,translated
+de_14_1030001_en,It should be feasible for individuals in Germany to possess a second citizenship in addition to their German one.,migration_integration,de,14,1030001,en,de14,False,True,False,False,False,translated
+de_15_1010001_en,Federal publications are to include language that reflects diverse gender identities.,society_ethics,de,15,1010001,en,de15,False,True,False,False,False,translated
+de_15_1020001_en,Official federal documents will acknowledge a range of gender identities in their language.,society_ethics,de,15,1020001,en,de15,False,True,False,False,False,translated
+de_15_1030001_en,"In their written materials, federal bodies will be required to consider various gender identities linguistically.",society_ethics,de,15,1030001,en,de15,False,True,False,False,False,translated
+de_16_1010001_en,"Permission is to be granted for the Nord Stream 2 pipeline, carrying gas from Russia to Germany, to commence operations as scheduled.",energy_transportation,de,16,1010001,en,de16,False,True,False,False,False,translated
+de_16_1020001_en,The launch of the Nord Stream 2 pipeline from Russia to Germany should proceed without delay.,energy_transportation,de,16,1020001,en,de16,False,True,False,False,False,translated
+de_16_1030001_en,"The activation of the Nord Stream 2 pipeline, channeling Russian gas to Germany, is expected to follow the original timeline.",energy_transportation,de,16,1030001,en,de16,False,True,False,False,False,translated
+de_17_1010001_en,Plans are underway to completely eliminate the solidarity surcharge.,finance_taxes,de,17,1010001,en,de17,False,True,False,False,False,translated
+de_17_1020001_en,The complete removal of the solidarity surcharge is anticipated.,finance_taxes,de,17,1020001,en,de17,False,True,False,False,False,translated
+de_17_1030001_en,The solidarity surcharge is expected to be fully repealed.,finance_taxes,de,17,1030001,en,de17,False,True,False,False,False,translated
+de_18_1010011_en,The dress code for female civil servants is to be amended to permit the wearing of headscarves at work.,society_ethics,de,18,1010011,en,de18,False,True,False,False,False,translated
+de_18_1020011_en,Headscarves are to become an accepted part of female civil servants' uniforms while they are working.,society_ethics,de,18,1020011,en,de18,False,True,False,False,False,translated
+de_18_1030011_en,"While performing their duties, female civil servants should be permitted to wear headscarves.",society_ethics,de,18,1030011,en,de18,False,True,False,False,False,translated
+de_19_1010011_en,The long-term policy should continue to allow the registration of new combustion engine vehicles.,energy_transportation,de,19,1010011,en,de19,False,True,False,False,False,translated
+de_19_1020011_en,New vehicles powered by combustion engines should retain the possibility of being registered indefinitely.,energy_transportation,de,19,1020011,en,de19,False,True,False,False,False,translated
+de_19_1030011_en,Registering new internal combustion engine cars should remain an option for the foreseeable future.,energy_transportation,de,19,1030011,en,de19,False,True,False,False,False,translated
+de_20_1010001_en,School policy is to see an increase in the involvement of the federal government.,education,de,20,1010001,en,de20,False,True,False,False,False,translated
+de_20_1020001_en,The federal government is expected to take on additional duties in the realm of educational policy.,education,de,20,1020001,en,de20,False,True,False,False,False,translated
+de_20_1030001_en,An expansion of the federal government's role in education policy is anticipated.,education,de,20,1030001,en,de20,False,True,False,False,False,translated
+de_21_1010001_en,An increase in federal funding is to be allocated for initiatives targeting the reduction of anti-Semitism.,society_ethics,de,21,1010001,en,de21,False,True,False,False,False,translated
+de_21_1020001_en,Projects aimed at fighting anti-Semitism are to receive heightened financial backing from the federal government.,society_ethics,de,21,1020001,en,de21,False,True,False,False,False,translated
+de_21_1030001_en,The federal government plans to augment its monetary contribution to efforts countering anti-Semitism.,society_ethics,de,21,1030001,en,de21,False,True,False,False,False,translated
+de_22_1010001_en,The awarding of communications infrastructure expansion contracts in Germany to Chinese firms should be prohibited.,foreign_relations,de,22,1010001,en,de22,False,True,False,False,False,translated
+de_22_1020001_en,It should be forbidden for Chinese corporations to secure deals pertaining to the development of Germany's communications infrastructure.,foreign_relations,de,22,1020001,en,de22,False,True,False,False,False,translated
+de_22_1030001_en,German communications infrastructure projects should exclude the participation of Chinese companies in their expansion contracts.,foreign_relations,de,22,1030001,en,de22,False,True,False,False,False,translated
+de_23_1010001_en,The collection of church tax by the state on behalf of religious groups should be maintained.,finance_taxes,de,23,1010001,en,de23,False,True,False,False,False,translated
+de_23_1020001_en,Religious communities should still have their church tax collected by governmental authorities.,finance_taxes,de,23,1020001,en,de23,False,True,False,False,False,translated
+de_23_1030001_en,The practice of state-administered collection of church tax for religious entities should persist.,finance_taxes,de,23,1030001,en,de23,False,True,False,False,False,translated
+de_24_1010011_en,A general authorization is to be granted for the regulated sale of cannabis.,society_ethics,de,24,1010011,en,de24,False,True,False,False,False,translated
+de_24_1020011_en,Cannabis sales are to be legally permitted under controlled conditions.,society_ethics,de,24,1020011,en,de24,False,True,False,False,False,translated
+de_24_1030011_en,"The government is to allow the sale of cannabis, provided it is regulated.",society_ethics,de,24,1030011,en,de24,False,True,False,False,False,translated
+de_25_1010001_en,The departure of Germany from the European Union is planned.,foreign_relations,de,25,1010001,en,de25,False,True,False,False,False,translated
+de_25_1020001_en,A decision for Germany to exit the European Union is to be enacted.,foreign_relations,de,25,1020001,en,de25,False,True,False,False,False,translated
+de_25_1030001_en,Germany is scheduled to make an exit from the European Union.,foreign_relations,de,25,1030001,en,de25,False,True,False,False,False,translated
+de_26_1010001_en,Party lists for Bundestag elections must be composed with male and female candidates in an alternating sequence.,society_ethics,de,26,1010001,en,de26,False,True,False,False,False,translated
+de_26_1020001_en,Electoral state lists for the Bundestag should alternate between female and male candidates.,society_ethics,de,26,1020001,en,de26,False,True,False,False,False,translated
+de_26_1030001_en,Gender alternation is required for the party candidate lists in the Bundestag elections.,society_ethics,de,26,1030001,en,de26,False,True,False,False,False,translated
+de_27_1010001_en,Hospitals will maintain the practice of billing a standard fee for each inpatient treatment case.,health,de,27,1010001,en,de27,False,True,False,False,False,translated
+de_27_1020001_en,The billing system for hospital inpatient care will persist as a fixed charge per individual case.,health,de,27,1020001,en,de27,False,True,False,False,False,translated
+de_27_1030001_en,A consistent case-based flat fee will continue to be the billing standard for hospital inpatient services.,health,de,27,1030001,en,de27,False,True,False,False,False,translated
+de_28_1010001_en,High-value assets are once again subject to taxation.,finance_taxes,de,28,1010001,en,de28,False,True,False,False,False,translated
+de_28_1020001_en,A reinstatement of the tax on substantial assets is planned.,finance_taxes,de,28,1020001,en,de28,False,True,False,False,False,translated
+de_28_1030001_en,The government is to reimpose a tax on individuals with significant assets.,finance_taxes,de,28,1030001,en,de28,False,True,False,False,False,translated
+de_29_1010011_en,The use of facial recognition technology in public surveillance systems should be permitted.,security_armed_forces,de,29,1010011,en,de29,False,True,False,False,False,translated
+de_29_1020011_en,Public area video monitoring should be authorized to employ facial recognition capabilities.,security_armed_forces,de,29,1020011,en,de29,False,True,False,False,False,translated
+de_29_1030011_en,Implementing facial recognition systems for public security cameras should be sanctioned.,security_armed_forces,de,29,1030011,en,de29,False,True,False,False,False,translated
+de_30_1010001_en,Tax reductions for childless married couples should be sustained.,finance_taxes,de,30,1010001,en,de30,False,True,False,False,False,translated
+de_30_1020001_en,The policy of providing tax incentives to married couples without children is to be upheld.,finance_taxes,de,30,1020001,en,de30,False,True,False,False,False,translated
+de_30_1030001_en,Fiscal benefits for married couples without offspring should remain in effect.,finance_taxes,de,30,1030001,en,de30,False,True,False,False,False,translated
+de_31_1010011_en,The advancement of organic farming practices should take precedence over traditional agricultural methods.,environ_protection,de,31,1010011,en,de31,False,True,False,False,False,translated
+de_31_1020011_en,There should be a stronger emphasis on the development of organic agriculture over standard farming.,environ_protection,de,31,1020011,en,de31,False,True,False,False,False,translated
+de_31_1030011_en,Greater support should be given to organic farming compared to conventional farming techniques.,environ_protection,de,31,1030011,en,de31,False,True,False,False,False,translated
+de_32_1010011_en,The state is to acknowledge Islamic organizations as official religious communities.,society_ethics,de,32,1010011,en,de32,False,True,False,False,False,translated
+de_32_1020011_en,Islamic groups should have the opportunity to gain state recognition as religious communities.,society_ethics,de,32,1020011,en,de32,False,True,False,False,False,translated
+de_32_1030011_en,Recognition of Islamic associations as formal religious communities by the state is to be possible.,society_ethics,de,32,1030011,en,de32,False,True,False,False,False,translated
+de_33_1010001_en,"The price of CO2 emissions, as determined by the government for heating and vehicular use, is expected to increase beyond initial projections.",environ_protection,de,33,1010001,en,de33,False,True,False,False,False,translated
+de_33_1020001_en,An increase greater than initially forecasted is to be applied to the government-mandated CO2 pricing for heating and automotive emissions.,environ_protection,de,33,1020001,en,de33,False,True,False,False,False,translated
+de_33_1030001_en,CO2 emissions from residential heating and transportation will incur government prices that will escalate more than previously intended.,environ_protection,de,33,1030001,en,de33,False,True,False,False,False,translated
+de_34_1010001_en,"The fiscal rule limiting public debt, known as the debt brake, is to be preserved in the Basic Law.",finance_taxes,de,34,1010001,en,de34,False,True,False,False,False,translated
+de_34_1020001_en,The Basic Law will continue to uphold the mechanism of the debt brake.,finance_taxes,de,34,1020001,en,de34,False,True,False,False,False,translated
+de_34_1030001_en,Maintenance of the debt brake provision will remain within the Basic Law.,finance_taxes,de,34,1030001,en,de34,False,True,False,False,False,translated
+de_35_1010001_en,The provision of asylum will persist exclusively for individuals facing political persecution.,migration_integration,de,35,1010001,en,de35,False,True,False,False,False,translated
+de_35_1020001_en,Political persecution will remain the sole criterion for the granting of asylum.,migration_integration,de,35,1020001,en,de35,False,True,False,False,False,translated
+de_35_1030001_en,Asylum shall be sustained as a protection solely for those who are politically oppressed.,migration_integration,de,35,1030001,en,de35,False,True,False,False,False,translated
+de_36_1010001_en,Plans are in place to raise the legal minimum wage to a minimum of 12 euros no later than the year 2022.,economy_labor,de,36,1010001,en,de36,False,True,False,False,False,translated
+de_36_1020001_en,The compulsory minimum wage is expected to reach or exceed 12 euros by the year 2022.,economy_labor,de,36,1020001,en,de36,False,True,False,False,False,translated
+de_36_1030001_en,"By 2022, the mandated minimum pay rate is set to be elevated to at least 12 euros.",economy_labor,de,36,1030001,en,de36,False,True,False,False,False,translated
+de_37_1010011_en,A higher tax rate is to be imposed on aviation.,finance_taxes,de,37,1010011,en,de37,False,True,False,False,False,translated
+de_37_1020011_en,There will be an increase in the taxation of air transportation.,finance_taxes,de,37,1020011,en,de37,False,True,False,False,False,translated
+de_37_1030011_en,The tax burden on air travel is scheduled to escalate.,finance_taxes,de,37,1030011,en,de37,False,True,False,False,False,translated
+de_38_1010011_en,It will be up to individual companies to determine if they permit remote work for their staff.,economy_labor,de,38,1010011,en,de38,False,True,False,False,False,translated
+de_38_1020011_en,The decision to approve telecommuting is to be left to the discretion of the companies.,economy_labor,de,38,1020011,en,de38,False,True,False,False,False,translated
+de_38_1030011_en,Firms will have the autonomy to choose whether to offer their workers the option to work from home.,economy_labor,de,38,1030011,en,de38,False,True,False,False,False,translated
+pl_1_1010001_en,Polish internal policies should be less impacted by the European Union.,foreign_relations,pl,1,1010001,en,pl1,False,True,False,False,False,translated
+pl_1_1020001_en,The European Union's impact on the domestic affairs of Poland needs to be minimized.,foreign_relations,pl,1,1020001,en,pl1,False,True,False,False,False,translated
+pl_1_1030001_en,There ought to be a reduction in the European Union's sway over Poland's homegrown policies.,foreign_relations,pl,1,1030001,en,pl1,False,True,False,False,False,translated
+pl_2_1010001_en,The government should amplify social aid to mitigate inflation's impact on the population.,welfare_state_family,pl,2,1010001,en,pl2,False,True,False,False,False,translated
+pl_2_1020001_en,"To counteract inflationary pressures, there should be an escalation in social welfare payments.",welfare_state_family,pl,2,1020001,en,pl2,False,True,False,False,False,translated
+pl_2_1030001_en,Elevating the level of social financial support is necessary to cushion citizens from inflation.,welfare_state_family,pl,2,1030001,en,pl2,False,True,False,False,False,translated
+pl_3_1010001_en,"When waiting periods for specialists at public clinics go beyond three months, the government should cover the cost of private consultations.",health,pl,3,1010001,en,pl3,False,True,False,False,False,translated
+pl_3_1020001_en,"Should the wait for a specialist in a public institution surpass a trimester, the costs for private appointments should be borne by the state.",health,pl,3,1020001,en,pl3,False,True,False,False,False,translated
+pl_3_1030001_en,The government must provide financial assistance for private specialist visits if the public healthcare system delays exceed three months.,health,pl,3,1030001,en,pl3,False,True,False,False,False,translated
+pl_4_1010011_en,Every child should be entitled to a state-funded nursery spot.,welfare_state_family,pl,4,1010011,en,pl4,False,True,False,False,False,translated
+pl_4_1020011_en,The government ought to ensure that each child has access to a complimentary nursery place.,welfare_state_family,pl,4,1020011,en,pl4,False,True,False,False,False,translated
+pl_4_1030011_en,Provision of a cost-free nursery place for every child should be a state responsibility.,welfare_state_family,pl,4,1030011,en,pl4,False,True,False,False,False,translated
+pl_5_1010011_en,Educational institutions should be granted greater autonomy in curriculum content selection.,education,pl,5,1010011,en,pl5,False,True,False,False,False,translated
+pl_5_1020011_en,There should be increased latitude for schools to determine their instructional content.,education,pl,5,1020011,en,pl5,False,True,False,False,False,translated
+pl_5_1030011_en,Schools require more liberty in deciding what to include in their teaching syllabi.,education,pl,5,1030011,en,pl5,False,True,False,False,False,translated
+pl_6_1010011_en,It's the government's responsibility to construct affordable rental housing units.,welfare_state_family,pl,6,1010011,en,pl6,False,True,False,False,False,translated
+pl_6_1020011_en,The government should erect apartments with reduced rent options.,welfare_state_family,pl,6,1020011,en,pl6,False,True,False,False,False,translated
+pl_6_1030011_en,Public authorities ought to develop housing that has low rental costs.,welfare_state_family,pl,6,1030011,en,pl6,False,True,False,False,False,translated
+pl_7_1010011_en,Higher-income individuals ought to pay more in taxes.,finance_taxes,pl,7,1010011,en,pl7,False,True,False,False,False,translated
+pl_7_1020011_en,The tax rate for those with the highest incomes should be raised.,finance_taxes,pl,7,1020011,en,pl7,False,True,False,False,False,translated
+pl_7_1030011_en,It is necessary to implement a tax hike for individuals earning the most.,finance_taxes,pl,7,1030011,en,pl7,False,True,False,False,False,translated
+pl_8_1010011_en,People who have reached a specific number of years in the workforce should be eligible for premature retirement.,welfare_state_family,pl,8,1010011,en,pl8,False,True,False,False,False,translated
+pl_8_1020011_en,There should be an option for early retirement for workers who have completed a predetermined amount of service time.,welfare_state_family,pl,8,1020011,en,pl8,False,True,False,False,False,translated
+pl_8_1030011_en,"Regardless of age, workers should be offered the choice to retire early after working a set number of years.",welfare_state_family,pl,8,1030011,en,pl8,False,True,False,False,False,translated
+pl_9_1010001_en,The regulations governing abortion need to be made more permissive.,society_ethics,pl,9,1010001,en,pl9,False,True,False,False,False,translated
+pl_9_1020001_en,Laws related to abortion should be relaxed and made less stringent.,society_ethics,pl,9,1020001,en,pl9,False,True,False,False,False,translated
+pl_9_1030001_en,It's necessary to ease the restrictions surrounding abortion legislation.,society_ethics,pl,9,1030001,en,pl9,False,True,False,False,False,translated
+pl_10_1010001_en,Entrepreneurs should be subject to a uniform health insurance premium without income discrimination.,health,pl,10,1010001,en,pl10,False,True,False,False,False,translated
+pl_10_1020001_en,"Health premiums for business owners should be consistent, irrespective of their earnings.",health,pl,10,1020001,en,pl10,False,True,False,False,False,translated
+pl_10_1030001_en,"The health insurance contribution for all business founders should be equal, not varying by income level.",health,pl,10,1030001,en,pl10,False,True,False,False,False,translated
+pl_11_1010011_en,"The outcomes of national referenda should be conclusive, no matter the voter participation.",democracy_media_digit,pl,11,1010011,en,pl11,False,True,False,False,False,translated
+pl_11_1020011_en,"Any referendum held on a national level must carry mandatory enforcement, turnout notwithstanding.",democracy_media_digit,pl,11,1020011,en,pl11,False,True,False,False,False,translated
+pl_11_1030011_en,"National referendum decisions should hold legal force, independent of the number of voters.",democracy_media_digit,pl,11,1030011,en,pl11,False,True,False,False,False,translated
+pl_12_1010001_en,Poland ought to embrace the EU's migrant redistribution policies.,migration_integration,pl,12,1010001,en,pl12,False,True,False,False,False,translated
+pl_12_1020001_en,The migration relocation strategies approved by the EU should be implemented by Poland.,migration_integration,pl,12,1020001,en,pl12,False,True,False,False,False,translated
+pl_12_1030001_en,It's time for Poland to take on the migrant resettlement schemes established by the European Union.,migration_integration,pl,12,1030001,en,pl12,False,True,False,False,False,translated
+pl_13_1010001_en,Judicial autonomy from the legislative and executive branches needs to be more robust.,democracy_media_digit,pl,13,1010001,en,pl13,False,True,False,False,False,translated
+pl_13_1020001_en,The separation of the judiciary from the influence of parliament and the executive should be reinforced.,democracy_media_digit,pl,13,1020001,en,pl13,False,True,False,False,False,translated
+pl_13_1030001_en,There must be a stronger delineation between the judiciary and the other branches of government.,democracy_media_digit,pl,13,1030001,en,pl13,False,True,False,False,False,translated
+pl_14_1010001_en,Poland needs to allocate a larger portion of its GDP to defense expenditures.,security_armed_forces,pl,14,1010001,en,pl14,False,True,False,False,False,translated
+pl_14_1020001_en,The percentage of GDP that Poland dedicates to defense should be raised.,security_armed_forces,pl,14,1020001,en,pl14,False,True,False,False,False,translated
+pl_14_1030001_en,An increase in the defense budget's share of Poland's gross domestic product is warranted.,security_armed_forces,pl,14,1030001,en,pl14,False,True,False,False,False,translated
+pl_15_1010001_en,"Local authorities should be granted more authority, reducing the central government's control.",democracy_media_digit,pl,15,1010001,en,pl15,False,True,False,False,False,translated
+pl_15_1020001_en,"The responsibilities of municipal governments should be expanded, diminishing the role of the nation's central administration.",democracy_media_digit,pl,15,1020001,en,pl15,False,True,False,False,False,translated
+pl_15_1030001_en,The central government should cede more powers to local governmental bodies.,democracy_media_digit,pl,15,1030001,en,pl15,False,True,False,False,False,translated
+pl_16_1010001_en,Poland ought to end its reliance on coal mining by the year 2040.,energy_transportation,pl,16,1010001,en,pl16,False,True,False,False,False,translated
+pl_16_1020001_en,The deadline for Poland to eliminate coal mining should be set for 2040.,energy_transportation,pl,16,1020001,en,pl16,False,True,False,False,False,translated
+pl_16_1030001_en,It is essential for Poland to conclude its coal mining operations by 2040 or earlier.,energy_transportation,pl,16,1030001,en,pl16,False,True,False,False,False,translated
+pl_17_1010001_en,The entry of Ukrainian grain into Poland should be barred.,foreign_relations,pl,17,1010001,en,pl17,False,True,False,False,False,translated
+pl_17_1020001_en,A blockade on Ukrainian grain imports ought to be enforced by Poland.,foreign_relations,pl,17,1020001,en,pl17,False,True,False,False,False,translated
+pl_17_1030001_en,Poland must take action to prevent grain imports from Ukraine.,foreign_relations,pl,17,1030001,en,pl17,False,True,False,False,False,translated
+pl_18_1010011_en,State social policies ought to reflect Christian moral values.,society_ethics,pl,18,1010011,en,pl18,False,True,False,False,False,translated
+pl_18_1020011_en,The foundation of state social policies should be rooted in Christian virtues.,society_ethics,pl,18,1020011,en,pl18,False,True,False,False,False,translated
+pl_18_1030011_en,Social policies at the state level should be guided by the principles of Christianity.,society_ethics,pl,18,1030011,en,pl18,False,True,False,False,False,translated
+pl_19_1010011_en,The state budget should curtail the allocation of funds to public media.,democracy_media_digit,pl,19,1010011,en,pl19,False,True,False,False,False,translated
+pl_19_1020011_en,Funding for public media from government coffers needs to be restrained.,democracy_media_digit,pl,19,1020011,en,pl19,False,True,False,False,False,translated
+pl_19_1030011_en,State budget contributions to public media should be reduced.,democracy_media_digit,pl,19,1030011,en,pl19,False,True,False,False,False,translated
+pl_20_1010011_en,There should be constraints on the secret services' ability to monitor citizens' online behaviors.,security_armed_forces,pl,20,1010011,en,pl20,False,True,False,False,False,translated
+pl_20_1020011_en,The surveillance capabilities of secret services over internet activities of citizens need to be curtailed.,security_armed_forces,pl,20,1020011,en,pl20,False,True,False,False,False,translated
+pl_20_1030011_en,Restrictions ought to be placed on the extent to which secret services can track citizens' internet usage.,security_armed_forces,pl,20,1030011,en,pl20,False,True,False,False,False,translated
+nl_1_1010001_en,Event organizers should have the authority to ask for vaccination proof at the entrance.,health,nl,1,1010001,en,nl1,False,True,False,False,False,translated
+nl_1_1020001_en,It should be permissible for event coordinators to require a vaccination certificate for entry.,health,nl,1,1020001,en,nl1,False,True,False,False,False,translated
+nl_1_1030001_en,The right to demand presentation of a vaccination certificate at events should be granted to organizers.,health,nl,1,1030001,en,nl1,False,True,False,False,False,translated
+nl_2_1010001_en,Increased defense spending is warranted for the Netherlands.,security_armed_forces,nl,2,1010001,en,nl2,False,True,False,False,False,translated
+nl_2_1020001_en,The Dutch government should allocate more funds to their defense budget.,security_armed_forces,nl,2,1020001,en,nl2,False,True,False,False,False,translated
+nl_2_1030001_en,It's necessary for the Netherlands to boost its financial commitment to defense.,security_armed_forces,nl,2,1030001,en,nl2,False,True,False,False,False,translated
+nl_3_1010011_en,Parents should receive at least three days of complimentary childcare weekly.,welfare_state_family,nl,3,1010011,en,nl3,False,True,False,False,False,translated
+nl_3_1020011_en,Free childcare services should be provided to all parents for a minimum of three days each week.,welfare_state_family,nl,3,1020011,en,nl3,False,True,False,False,False,translated
+nl_3_1030011_en,A policy should be implemented to offer parents three days of free childcare per week.,welfare_state_family,nl,3,1030011,en,nl3,False,True,False,False,False,translated
+nl_4_1010001_en,The Dutch nation should make a move to depart from the EU.,foreign_relations,nl,4,1010001,en,nl4,False,True,False,False,False,translated
+nl_4_1020001_en,Withdrawal from the European Union is a step the Netherlands should consider.,foreign_relations,nl,4,1020001,en,nl4,False,True,False,False,False,translated
+nl_4_1030001_en,It should be on the agenda for the Netherlands to secede from the European Union.,foreign_relations,nl,4,1030001,en,nl4,False,True,False,False,False,translated
+nl_5_1010011_en,"Motorists should be taxed based on the number of kilometers they drive, not car ownership.",finance_taxes,nl,5,1010011,en,nl5,False,True,False,False,False,translated
+nl_5_1020011_en,The tax system for drivers should be modified to charge per kilometer rather than on vehicle possession.,finance_taxes,nl,5,1020011,en,nl5,False,True,False,False,False,translated
+nl_5_1030011_en,A distance-based tax on driving should replace the current car ownership tax.,finance_taxes,nl,5,1030011,en,nl5,False,True,False,False,False,translated
+nl_6_1010001_en,"As New Year's Eve approaches, the use of celebratory fireworks ought to be permitted once more.",society_ethics,nl,6,1010001,en,nl6,False,True,False,False,False,translated
+nl_6_1020001_en,The prohibition on igniting decorative fireworks should be lifted for the forthcoming New Year's celebrations.,society_ethics,nl,6,1020001,en,nl6,False,True,False,False,False,translated
+nl_6_1030001_en,"Come this New Year's Eve, the launching of ornamental fireworks should again be permissible.",society_ethics,nl,6,1030001,en,nl6,False,True,False,False,False,translated
+nl_7_1010011_en,An extra levy ought to be imposed on meat acquisitions.,finance_taxes,nl,7,1010011,en,nl7,False,True,False,False,False,translated
+nl_7_1020011_en,The act of buying meat should carry an additional tax burden.,finance_taxes,nl,7,1020011,en,nl7,False,True,False,False,False,translated
+nl_7_1030011_en,A supplementary taxation on meat purchases is warranted.,finance_taxes,nl,7,1030011,en,nl7,False,True,False,False,False,translated
+nl_8_1010011_en,Public broadcasting should receive a reduced amount of financial support.,democracy_media_digit,nl,8,1010011,en,nl8,False,True,False,False,False,translated
+nl_8_1020011_en,The allocation of funds to public broadcasting ought to be decreased.,democracy_media_digit,nl,8,1020011,en,nl8,False,True,False,False,False,translated
+nl_8_1030011_en,It's advisable to curtail the funding provided to public broadcasting networks.,democracy_media_digit,nl,8,1030011,en,nl8,False,True,False,False,False,translated
+nl_9_1010001_en,A universal national healthcare fund should replace current health insurance providers.,health,nl,9,1010001,en,nl9,False,True,False,False,False,translated
+nl_9_1020001_en,The nation should establish a comprehensive healthcare fund in place of private health insurance companies.,health,nl,9,1020001,en,nl9,False,True,False,False,False,translated
+nl_9_1030001_en,"Rather than relying on existing health insurers, a nationwide healthcare fund should be created to serve all.",health,nl,9,1030001,en,nl9,False,True,False,False,False,translated
+nl_10_1010001_en,The prohibition against clothing that covers the face ought to be revoked by the state.,society_ethics,nl,10,1010001,en,nl10,False,True,False,False,False,translated
+nl_10_1020001_en,It is incumbent upon the authorities to rescind the restrictions on face-covering garments.,society_ethics,nl,10,1020001,en,nl10,False,True,False,False,False,translated
+nl_10_1030001_en,Legislative measures banning face-concealing attire should be eliminated by the government.,society_ethics,nl,10,1030001,en,nl10,False,True,False,False,False,translated
+nl_11_1010001_en,Decisions regarding the locations of new housing developments should be made by the central government instead of local or provincial bodies.,democracy_media_digit,nl,11,1010001,en,nl11,False,True,False,False,False,translated
+nl_11_1020001_en,The responsibility for determining the sites of new residential zones should fall to the federal government rather than regional administrations.,democracy_media_digit,nl,11,1020001,en,nl11,False,True,False,False,False,translated
+nl_11_1030001_en,"It should be up to the national authorities, not the provinces and towns, to choose the placement of new living districts.",democracy_media_digit,nl,11,1030001,en,nl11,False,True,False,False,False,translated
+nl_12_1010001_en,A reduction in the Value Added Tax on cultural endeavors to 5 percent should be mandated by the state.,finance_taxes,nl,12,1010001,en,nl12,False,True,False,False,False,translated
+nl_12_1020001_en,The VAT applied to cultural events should be cut down to 5 percent by governmental decree.,finance_taxes,nl,12,1020001,en,nl12,False,True,False,False,False,translated
+nl_12_1030001_en,It is proposed that the tax rate on cultural experiences be decreased to a flat 5 percent by the authorities.,finance_taxes,nl,12,1030001,en,nl12,False,True,False,False,False,translated
+nl_13_1010001_en,A fresh nuclear power facility should be constructed in the Netherlands.,energy_transportation,nl,13,1010001,en,nl13,False,True,False,False,False,translated
+nl_13_1020001_en,It's time for the Netherlands to commission a new atomic energy station.,energy_transportation,nl,13,1020001,en,nl13,False,True,False,False,False,translated
+nl_13_1030001_en,The construction of an additional nuclear reactor is in order for the Netherlands.,energy_transportation,nl,13,1030001,en,nl13,False,True,False,False,False,translated
+nl_14_1010011_en,Residential structures ought to be erected on terrain presently dedicated to farming.,economy_labor,nl,14,1010011,en,nl14,False,True,False,False,False,translated
+nl_14_1020011_en,Farmlands should be repurposed for the construction of housing developments.,economy_labor,nl,14,1020011,en,nl14,False,True,False,False,False,translated
+nl_14_1030011_en,The current agricultural areas should be transformed into sites for building homes.,economy_labor,nl,14,1030011,en,nl14,False,True,False,False,False,translated
+nl_15_1010001_en,Dual-partner households with only one earning member ought to enjoy equal tax privileges as those with both partners employed.,welfare_state_family,nl,15,1010001,en,nl15,False,True,False,False,False,translated
+nl_15_1020001_en,The tax advantages for single-earner dual-partner households should match those of double-income homes.,welfare_state_family,nl,15,1020001,en,nl15,False,True,False,False,False,translated
+nl_15_1030001_en,Homes where only one of two partners is working should be entitled to the same fiscal perks as homes where both partners work.,welfare_state_family,nl,15,1030001,en,nl15,False,True,False,False,False,translated
+nl_16_1010001_en,It's incumbent upon the Netherlands' authorities to issue an official apology for their role in the past slave trade.,society_ethics,nl,16,1010001,en,nl16,False,True,False,False,False,translated
+nl_16_1020001_en,The government of the Netherlands ought to formally express remorse for the country's historical involvement in slavery.,society_ethics,nl,16,1020001,en,nl16,False,True,False,False,False,translated
+nl_16_1030001_en,An official statement of regret for participating in the historical slave trade should be delivered by the Dutch administration.,society_ethics,nl,16,1030001,en,nl16,False,True,False,False,False,translated
+nl_17_1010011_en,The populace should be empowered to veto parliamentary legislation via referendums.,democracy_media_digit,nl,17,1010011,en,nl17,False,True,False,False,False,translated
+nl_17_1020011_en,There should be a mechanism for the public to nullify laws enacted by parliament through referendal processes.,democracy_media_digit,nl,17,1020011,en,nl17,False,True,False,False,False,translated
+nl_17_1030011_en,The citizenry ought to have the means to overturn laws approved by the legislature by holding referendums.,democracy_media_digit,nl,17,1030011,en,nl17,False,True,False,False,False,translated
+nl_18_1010011_en,The salaries for educators in primary schools ought to be on par with those teaching in secondary schools.,education,nl,18,1010011,en,nl18,False,True,False,False,False,translated
+nl_18_1020011_en,Compensation for teaching professionals at the primary level should be equivalent to that of their counterparts in secondary education.,education,nl,18,1020011,en,nl18,False,True,False,False,False,translated
+nl_18_1030011_en,Teachers in elementary education deserve a salary that matches what is earned by those in high schools.,education,nl,18,1030011,en,nl18,False,True,False,False,False,translated
+nl_19_1010011_en,The alternatives for substituting community service for incarceration should be limited.,security_armed_forces,nl,19,1010011,en,nl19,False,True,False,False,False,translated
+nl_19_1020011_en,Community service should be a less frequent alternative to serving time in prison.,security_armed_forces,nl,19,1020011,en,nl19,False,True,False,False,False,translated
+nl_19_1030011_en,The variety of community service options available as replacements for prison terms needs to be reduced.,security_armed_forces,nl,19,1030011,en,nl19,False,True,False,False,False,translated
+nl_20_1010001_en,An extra levy on short-haul flights should be implemented in the Netherlands.,finance_taxes,nl,20,1010001,en,nl20,False,True,False,False,False,translated
+nl_20_1020001_en,The Dutch should apply an additional tax on air travel covering short distances.,finance_taxes,nl,20,1020001,en,nl20,False,True,False,False,False,translated
+nl_20_1030001_en,"For brief air journeys, the Netherlands ought to instate a supplementary aviation tax.",finance_taxes,nl,20,1030001,en,nl20,False,True,False,False,False,translated
+nl_21_1010001_en,"Before being granted access to rental housing, asylum seekers holding a provisional residence permit must fulfill integration requirements.",migration_integration,nl,21,1010001,en,nl21,False,True,False,False,False,translated
+nl_21_1020001_en,Integration completion should be a prerequisite for asylum seekers with a temporary permit to qualify for rented accommodation.,migration_integration,nl,21,1020001,en,nl21,False,True,False,False,False,translated
+nl_21_1030001_en,Temporary permit-holding asylum seekers are required to finish integration programs prior to obtaining rental housing.,migration_integration,nl,21,1030001,en,nl21,False,True,False,False,False,translated
+nl_22_1010001_en,The transaction of buying and selling soft narcotics by coffee shops ought to be lawful.,society_ethics,nl,22,1010001,en,nl22,False,True,False,False,False,translated
+nl_22_1020001_en,Legal status should be granted to coffee shops for both the procurement and distribution of soft drugs.,society_ethics,nl,22,1020001,en,nl22,False,True,False,False,False,translated
+nl_22_1030001_en,Coffee shops should be permitted by law to both acquire and vend soft drugs.,society_ethics,nl,22,1030001,en,nl22,False,True,False,False,False,translated
+nl_23_1010001_en,Dutch should be made a more commonly obligatory language of instruction in higher education institutions.,education,nl,23,1010001,en,nl23,False,True,False,False,False,translated
+nl_23_1020001_en,There ought to be an increased mandate for teaching in Dutch at university and college levels.,education,nl,23,1020001,en,nl23,False,True,False,False,False,translated
+nl_23_1030001_en,The frequency of Dutch being a required language for teaching at universities and colleges should be enhanced by the government.,education,nl,23,1030001,en,nl23,False,True,False,False,False,translated
+nl_24_1010011_en,Individuals who feel their lives are fulfilled ought to have the option to obtain help in ending their lives.,society_ethics,nl,24,1010011,en,nl24,False,True,False,False,False,translated
+nl_24_1020011_en,Assistance for committing suicide should be accessible to those who believe they have led complete lives.,society_ethics,nl,24,1020011,en,nl24,False,True,False,False,False,translated
+nl_24_1030011_en,The option to be assisted in suicide should be available for persons who deem their life journey to have reached its fulfillment.,society_ethics,nl,24,1030011,en,nl24,False,True,False,False,False,translated
+nl_25_1010001_en,Rising minimum wages should not inherently trigger a hike in welfare benefits.,economy_labor,nl,25,1010001,en,nl25,False,True,False,False,False,translated
+nl_25_1020001_en,Welfare benefits should not be directly tied to the upscaling of minimum wage levels.,economy_labor,nl,25,1020001,en,nl25,False,True,False,False,False,translated
+nl_25_1030001_en,There ought to be a decoupling of minimum wage increases from automatic escalations in welfare benefits.,economy_labor,nl,25,1030001,en,nl25,False,True,False,False,False,translated
+nl_26_1010011_en,At least 40 percent of any newly developed residential area should be dedicated to green spaces.,environ_protection,nl,26,1010011,en,nl26,False,True,False,False,False,translated
+nl_26_1020011_en,A minimum of 40 percent of the space in new housing developments should be reserved for parks and natural landscapes.,environ_protection,nl,26,1020011,en,nl26,False,True,False,False,False,translated
+nl_26_1030011_en,New housing zones ought to allocate no less than 40 percent of their area to environmental greenery.,environ_protection,nl,26,1030011,en,nl26,False,True,False,False,False,translated
+nl_27_1010011_en,Farming enterprises should not face any additional regulatory constraints.,economy_labor,nl,27,1010011,en,nl27,False,True,False,False,False,translated
+nl_27_1020011_en,Agricultural business operations should remain free from any further restrictions.,economy_labor,nl,27,1020011,en,nl27,False,True,False,False,False,translated
+nl_27_1030011_en,No further regulatory limitations should be imposed on the practices of agricultural firms.,economy_labor,nl,27,1030011,en,nl27,False,True,False,False,False,translated
+nl_28_1010001_en,"The creation of a middle school is essential to allow students to defer the decision between vocational training, general secondary education, or a pre-university track.",education,nl,28,1010001,en,nl28,False,True,False,False,False,translated
+nl_28_1020001_en,"There should be an establishment of a middle school phase where students can postpone choosing among vocational, general secondary, or pre-university educational paths.",education,nl,28,1020001,en,nl28,False,True,False,False,False,translated
+nl_28_1030001_en,"Students should have the opportunity at a middle school level to delay their selection of a vocational, general secondary, or pre-university education.",education,nl,28,1030001,en,nl28,False,True,False,False,False,translated
+nl_29_1010001_en,The Netherlands ought to increase the number of refugees it admits beyond its current levels.,migration_integration,nl,29,1010001,en,nl29,False,True,False,False,False,translated
+nl_29_1020001_en,It is incumbent upon the Netherlands to expand its refugee intake.,migration_integration,nl,29,1020001,en,nl29,False,True,False,False,False,translated
+nl_29_1030001_en,The current quota of refugees welcomed by the Netherlands should be raised.,migration_integration,nl,29,1030001,en,nl29,False,True,False,False,False,translated
+nl_30_1010011_en,The decision to wear a face mask should be left to individual choice at all times.,society_ethics,nl,30,1010011,en,nl30,False,True,False,False,False,translated
+nl_30_1020011_en,Individuals should retain the liberty to choose mask-wearing as they see fit.,society_ethics,nl,30,1020011,en,nl30,False,True,False,False,False,translated
+nl_30_1030011_en,Wearing a face mask should consistently be a matter of personal preference.,society_ethics,nl,30,1030011,en,nl30,False,True,False,False,False,translated
+hu_1_1010001_en,Hungary's sovereignty is under threat from the EU's rule of law mechanism.,foreign_relations,hu,1,1010001,en,hu1,False,True,False,False,False,translated
+hu_1_1020001_en,The EU's rule of law mechanism poses a risk to Hungary's autonomy.,foreign_relations,hu,1,1020001,en,hu1,False,True,False,False,False,translated
+hu_1_1030001_en,Hungary's sovereignty is in jeopardy due to the EU's rule of law mechanism.,foreign_relations,hu,1,1030001,en,hu1,False,True,False,False,False,translated
+hu_2_1010001_en,Hungarian foreign policy should exclusively prioritize Hungarian economic interests.,foreign_relations,hu,2,1010001,en,hu2,False,True,False,False,False,translated
+hu_2_1020001_en,Hungarian foreign policy should be driven solely by the economic concerns of Hungary.,foreign_relations,hu,2,1020001,en,hu2,False,True,False,False,False,translated
+hu_2_1030001_en,Hungarian economic interests should be the sole determinant of the country's foreign policy.,foreign_relations,hu,2,1030001,en,hu2,False,True,False,False,False,translated
+hu_3_1010001_en,Hungary should make a decision through a referendum regarding its continued EU membership.,foreign_relations,hu,3,1010001,en,hu3,False,True,False,False,False,translated
+hu_3_1020001_en,The fate of Hungary's EU membership should be determined by a referendum.,foreign_relations,hu,3,1020001,en,hu3,False,True,False,False,False,translated
+hu_3_1030001_en,Hungary should use a referendum to decide whether to remain part of the EU.,foreign_relations,hu,3,1030001,en,hu3,False,True,False,False,False,translated
+hu_4_1010011_en,Environmental factors such as media content and sensitization activities can influence gender identity.,society_ethics,hu,4,1010011,en,hu4,False,True,False,False,False,translated
+hu_4_1020011_en,Gender identity may be shaped by external influences like media content and awareness campaigns.,society_ethics,hu,4,1020011,en,hu4,False,True,False,False,False,translated
+hu_4_1030011_en,"Environmental factors, including media content and sensitization efforts, can impact one's gender identity.",society_ethics,hu,4,1030011,en,hu4,False,True,False,False,False,translated
+hu_5_1010011_en,There is a need for enhanced state regulation of NGOs receiving support from foreign organizations.,democracy_media_digit,hu,5,1010011,en,hu5,False,True,False,False,False,translated
+hu_5_1020011_en,Stronger government oversight of NGOs funded by foreign entities is required.,democracy_media_digit,hu,5,1020011,en,hu5,False,True,False,False,False,translated
+hu_5_1030011_en,Increased state regulation of foreignsupported NGOs is necessary.,democracy_media_digit,hu,5,1030011,en,hu5,False,True,False,False,False,translated
+hu_6_1010001_en,Hungary should become a member of the European Public Prosecutor's Office.,foreign_relations,hu,6,1010001,en,hu6,False,True,False,False,False,translated
+hu_6_1020001_en,Hungary should join the European Public Prosecutor's Office.,foreign_relations,hu,6,1020001,en,hu6,False,True,False,False,False,translated
+hu_6_1030001_en,Membership in the European Public Prosecutor's Office is advisable for Hungary.,foreign_relations,hu,6,1030001,en,hu6,False,True,False,False,False,translated
+hu_7_1010001_en,"Stricter regulations, including judicial authorization, should be applied to interception software like Pegasus.",democracy_media_digit,hu,7,1010001,en,hu7,False,True,False,False,False,translated
+hu_7_1020001_en,"Interception software, such as Pegasus, should be subject to stricter rules, including judicial approval.",democracy_media_digit,hu,7,1020001,en,hu7,False,True,False,False,False,translated
+hu_7_1030001_en,"There is a need for more rigorous oversight of interception software like Pegasus, with judicial authorization.",democracy_media_digit,hu,7,1030001,en,hu7,False,True,False,False,False,translated
+hu_8_1010011_en,Disclosure of criminals' origins is necessary to enhance law enforcement effectiveness.,security_armed_forces,hu,8,1010011,en,hu8,False,True,False,False,False,translated
+hu_8_1020011_en,Revealing the origin of criminals is vital for improving the efficiency of law enforcement.,security_armed_forces,hu,8,1020011,en,hu8,False,True,False,False,False,translated
+hu_8_1030011_en,Law enforcement would benefit from disclosing the origins of criminals.,security_armed_forces,hu,8,1030011,en,hu8,False,True,False,False,False,translated
+hu_9_1010001_en,The compulsory schooling age should be raised to 18.,education,hu,9,1010001,en,hu9,False,True,False,False,False,translated
+hu_9_1020001_en,It is necessary to increase the compulsory schooling age back to 18.,education,hu,9,1020001,en,hu9,False,True,False,False,False,translated
+hu_9_1030001_en,Raising the age of compulsory education to 18 is essential.,education,hu,9,1030001,en,hu9,False,True,False,False,False,translated
+hu_10_1010001_en,Education spending should be boosted to at least match the OECD average of 5.2 percent of GDP.,education,hu,10,1010001,en,hu10,False,True,False,False,False,translated
+hu_10_1020001_en,"Increasing education expenditure to reach at least 5.2 percent of GDP, in line with the OECD average, is imperative.",education,hu,10,1020001,en,hu10,False,True,False,False,False,translated
+hu_10_1030001_en,Education funding should be elevated to meet or exceed the OECD's 5.2 percent of GDP benchmark.,education,hu,10,1030001,en,hu10,False,True,False,False,False,translated
+hu_11_1010011_en,Teachers' salaries ought to be doubled.,education,hu,11,1010011,en,hu11,False,True,False,False,False,translated
+hu_11_1020011_en,There is a need to increase teachers' salaries twofold.,education,hu,11,1020011,en,hu11,False,True,False,False,False,translated
+hu_11_1030011_en,Doubling teachers' salaries is a necessary step.,education,hu,11,1030011,en,hu11,False,True,False,False,False,translated
+hu_12_1010001_en,The shift in the university model to a trust structure has led to a decrease in political influence.,education,hu,12,1010001,en,hu12,False,True,False,False,False,translated
+hu_12_1020001_en,Political sway has diminished as a result of the university model reorganization into a trust.,education,hu,12,1020001,en,hu12,False,True,False,False,False,translated
+hu_12_1030001_en,Changing the university model to a trust has resulted in a reduction in political clout.,education,hu,12,1030001,en,hu12,False,True,False,False,False,translated
+hu_13_1010011_en,Marriage should be restricted to only heterosexual couples.,society_ethics,hu,13,1010011,en,hu13,False,True,False,False,False,translated
+hu_13_1020011_en,Only men and women should be eligible to marry.,society_ethics,hu,13,1020011,en,hu13,False,True,False,False,False,translated
+hu_13_1030011_en,Marriage should be exclusively allowed for oppositesex couples.,society_ethics,hu,13,1030011,en,hu13,False,True,False,False,False,translated
+hu_14_1010001_en,Political parties should aim for a more balanced ratio of men to women when composing candidate lists.,society_ethics,hu,14,1010001,en,hu14,False,True,False,False,False,translated
+hu_14_1020001_en,Parties should seek a closer proportion of men to women in the compilation of their lists.,society_ethics,hu,14,1020001,en,hu14,False,True,False,False,False,translated
+hu_14_1030001_en,"When creating candidate lists, parties should strive for a narrower gender gap between men and women.",society_ethics,hu,14,1030001,en,hu14,False,True,False,False,False,translated
+hu_15_1010011_en,The government should implement targeted measures to encourage equal involvement of fathers and mothers in childrearing.,welfare_state_family,hu,15,1010011,en,hu15,False,True,False,False,False,translated
+hu_15_1020011_en,The state should adopt specific measures to promote equal participation of both fathers and mothers in parenting.,welfare_state_family,hu,15,1020011,en,hu15,False,True,False,False,False,translated
+hu_15_1030011_en,Targeted actions should be taken by the government to ensure fathers and mothers share childrearing responsibilities equally.,welfare_state_family,hu,15,1030011,en,hu15,False,True,False,False,False,translated
+hu_16_1010001_en,"The Hungarian government should endorse the Istanbul Convention, a treaty combatting violence against women and domestic violence.",welfare_state_family,hu,16,1010001,en,hu16,False,True,False,False,False,translated
+hu_16_1020001_en,"The Hungarian government should ratify the Istanbul Convention, which addresses violence against women and domestic violence.",welfare_state_family,hu,16,1020001,en,hu16,False,True,False,False,False,translated
+hu_16_1030001_en,"Ratifying the Istanbul Convention, aimed at combating violence against women and domestic violence, is essential for the Hungarian government.",welfare_state_family,hu,16,1030001,en,hu16,False,True,False,False,False,translated
+hu_17_1010001_en,One effective strategy for reducing housing rents is to secure favorable gas supply agreements with Russia.,economy_labor,hu,17,1010001,en,hu17,False,True,False,False,False,translated
+hu_17_1020001_en,Concluding advantageous gas supply contracts with Russia is an efficient method to lower rent costs.,economy_labor,hu,17,1020001,en,hu17,False,True,False,False,False,translated
+hu_17_1030001_en,Reducing housing rents can be effectively achieved by securing favorable gas supply deals with Russia.,economy_labor,hu,17,1030001,en,hu17,False,True,False,False,False,translated
+hu_18_1010001_en,"There is a need for comprehensive reform of public procurement practices, including opening up largescale centralized public procurement to smaller companies.",economy_labor,hu,18,1010001,en,hu18,False,True,False,False,False,translated
+hu_18_1020001_en,"Public procurement reform should be allencompassing, encompassing actions like granting access to smaller firms in largescale centralized procurement.",economy_labor,hu,18,1020001,en,hu18,False,True,False,False,False,translated
+hu_18_1030001_en,"Extensive public procurement reform is essential, including expanding access for smaller companies to centralized procurement.",economy_labor,hu,18,1030001,en,hu18,False,True,False,False,False,translated
+hu_19_1010001_en,Increase the tax contribution of wealthier individuals to the public treasury by eliminating the oneband tax.,finance_taxes,hu,19,1010001,en,hu19,False,True,False,False,False,translated
+hu_19_1020001_en,Enhance the financial obligations of affluent individuals to the public budget by abolishing the oneband tax.,finance_taxes,hu,19,1020001,en,hu19,False,True,False,False,False,translated
+hu_19_1030001_en,Abolishing the oneband tax is a way to make wealthier individuals contribute more to public finances.,finance_taxes,hu,19,1030001,en,hu19,False,True,False,False,False,translated
+hu_20_1010011_en,Public employment assists individuals in reintegrating into the labor market.,economy_labor,hu,20,1010011,en,hu20,False,True,False,False,False,translated
+hu_20_1020011_en,Public sector jobs aid individuals in returning to the workforce.,economy_labor,hu,20,1020011,en,hu20,False,True,False,False,False,translated
+hu_20_1030011_en,Reentering the labor market is facilitated by public employment opportunities.,economy_labor,hu,20,1030011,en,hu20,False,True,False,False,False,translated
+hu_21_1010011_en,Implementing a freeze on prices for certain essential food items like chicken tails and milk is the appropriate measure to combat inflation.,finance_taxes,hu,21,1010011,en,hu21,False,True,False,False,False,translated
+hu_21_1020011_en,Enforcing a price freeze on key foodstuffs such as chicken tails and milk is the correct approach to address inflation.,finance_taxes,hu,21,1020011,en,hu21,False,True,False,False,False,translated
+hu_21_1030011_en,Freezing the prices of essential food items like chicken tails and milk is the proper step in the fight against inflation.,finance_taxes,hu,21,1030011,en,hu21,False,True,False,False,False,translated
+hu_22_1010011_en,Government intervention to regulate the rental housing market is unnecessary.,economy_labor,hu,22,1010011,en,hu22,False,True,False,False,False,translated
+hu_22_1020011_en,There is no need for state involvement in controlling the rental housing market.,economy_labor,hu,22,1020011,en,hu22,False,True,False,False,False,translated
+hu_22_1030011_en,Regulation of the rental housing market by the government is not required.,economy_labor,hu,22,1030011,en,hu22,False,True,False,False,False,translated
+hu_23_1010001_en,Extending the existing threemonth unemployment benefit is advisable.,welfare_state_family,hu,23,1010001,en,hu23,False,True,False,False,False,translated
+hu_23_1020001_en,It is recommended to prolong the current threemonth unemployment benefit.,welfare_state_family,hu,23,1020001,en,hu23,False,True,False,False,False,translated
+hu_23_1030001_en,Extending the duration of the threemonth unemployment benefit is a prudent decision.,welfare_state_family,hu,23,1030001,en,hu23,False,True,False,False,False,translated
+hu_24_1010001_en,Supporting families through a family tax credit is a superior method compared to increasing the family allowance.,welfare_state_family,hu,24,1010001,en,hu24,False,True,False,False,False,translated
+hu_24_1020001_en,Using a family tax credit to provide assistance to families is a better approach than raising the family allowance.,welfare_state_family,hu,24,1020001,en,hu24,False,True,False,False,False,translated
+hu_24_1030001_en,A family tax credit is a more effective means of supporting families than increasing the family allowance.,welfare_state_family,hu,24,1030001,en,hu24,False,True,False,False,False,translated
+hu_25_1010001_en,"It is appropriate for the Education Office, rather than parents and nursery teachers, to determine the school entry readiness of children above the age of six.",education,hu,25,1010001,en,hu25,False,True,False,False,False,translated
+hu_25_1020001_en,"The responsibility for assessing the schoolentry readiness of children aged six and older should rightly rest with the Education Office, not parents and nursery teachers.",education,hu,25,1020001,en,hu25,False,True,False,False,False,translated
+hu_25_1030001_en,"It is correct that the Education Office, rather than parents and nursery teachers, should have the authority to decide on the school entry maturity of children over the age of six.",education,hu,25,1030001,en,hu25,False,True,False,False,False,translated
+hu_28_1010001_en,The use of medical cannabis should be legalized in Hungary.,society_ethics,hu,28,1010001,en,hu28,False,True,False,False,False,translated
+hu_28_1020001_en,Hungary should legalize the medicinal use of cannabis.,society_ethics,hu,28,1020001,en,hu28,False,True,False,False,False,translated
+hu_28_1030001_en,Legalizing medical cannabis in Hungary is the right course of action.,society_ethics,hu,28,1030001,en,hu28,False,True,False,False,False,translated
+hu_29_1010001_en,Establishing an independent Ministry of Health is recommended.,health,hu,29,1010001,en,hu29,False,True,False,False,False,translated
+hu_29_1020001_en,It is advisable to create a separate Ministry of Health that operates independently.,health,hu,29,1020001,en,hu29,False,True,False,False,False,translated
+hu_29_1030001_en,Setting up an autonomous Ministry of Health is a prudent step.,health,hu,29,1030001,en,hu29,False,True,False,False,False,translated
+hu_30_1010001_en,The President of the Hungarian Republic should be elected directly.,democracy_media_digit,hu,30,1010001,en,hu30,False,True,False,False,False,translated
+hu_30_1020001_en,The Hungarian President should be chosen through a direct election by the people.,democracy_media_digit,hu,30,1020001,en,hu30,False,True,False,False,False,translated
+hu_30_1030001_en,Directly electing the President of the Hungarian Republic is the appropriate method.,democracy_media_digit,hu,30,1030001,en,hu30,False,True,False,False,False,translated
+hu_31_1010001_en,"There is a need for comprehensive reform of the electoral system, including redrawing district boundaries, eliminating winnertakeall compensation, and expanding postal voting.",democracy_media_digit,hu,31,1010001,en,hu31,False,True,False,False,False,translated
+hu_31_1020001_en,"A comprehensive overhaul of the electoral system is necessary, encompassing actions like redistricting, removing winnertakeall compensation, and broadening postal voting.",democracy_media_digit,hu,31,1020001,en,hu31,False,True,False,False,False,translated
+hu_31_1030001_en,"Extensive reform of the electoral system, which includes redrawing district boundaries, abolishing winnertakeall compensation, and extending postal voting, is essential.",democracy_media_digit,hu,31,1030001,en,hu31,False,True,False,False,False,translated
+hu_32_1010001_en,A legal framework for primary elections should be established.,democracy_media_digit,hu,32,1010001,en,hu32,False,True,False,False,False,translated
+hu_32_1020001_en,A regulatory structure for primary elections should be put in place.,democracy_media_digit,hu,32,1020001,en,hu32,False,True,False,False,False,translated
+hu_32_1030001_en,Providing a legal framework for primary elections is a necessary step.,democracy_media_digit,hu,32,1030001,en,hu32,False,True,False,False,False,translated
+hu_33_1010011_en,The eligible voting age for elections should remain at 16.,democracy_media_digit,hu,33,1010011,en,hu33,False,True,False,False,False,translated
+hu_33_1020011_en,Keeping the voting age for elections at 16 is essential.,democracy_media_digit,hu,33,1020011,en,hu33,False,True,False,False,False,translated
+hu_33_1030011_en,There is no need to change the voting age for elections from 16.,democracy_media_digit,hu,33,1030011,en,hu33,False,True,False,False,False,translated
+hu_34_1010011_en,Internet access should be freely available to everyone.,democracy_media_digit,hu,34,1010011,en,hu34,False,True,False,False,False,translated
+hu_34_1020011_en,Providing free internet access to all should be a priority.,democracy_media_digit,hu,34,1020011,en,hu34,False,True,False,False,False,translated
+hu_34_1030011_en,Internet accessibility should be unrestricted and free for all individuals.,democracy_media_digit,hu,34,1030011,en,hu34,False,True,False,False,False,translated
+hu_36_1010011_en,Companies that contribute to pollution should face higher taxation.,environ_protection,hu,36,1010011,en,hu36,False,True,False,False,False,translated
+hu_36_1020011_en,Polluting firms should be subjected to more substantial tax burdens.,environ_protection,hu,36,1020011,en,hu36,False,True,False,False,False,translated
+hu_36_1030011_en,Increasing taxes on companies that pollute is necessary.,environ_protection,hu,36,1030011,en,hu36,False,True,False,False,False,translated
+hu_37_1010011_en,"In larger cities, measures such as P+R parking, cycle path construction, and public transport improvement should be implemented to restrict car traffic.",energy_transportation,hu,37,1010011,en,hu37,False,True,False,False,False,translated
+hu_37_1020011_en,"In big cities, car traffic should be curtailed through a variety of actions, including P+R parking, the development of cycle paths, and the enhancement of public transport.",energy_transportation,hu,37,1020011,en,hu37,False,True,False,False,False,translated
+hu_37_1030011_en,"Employing a range of measures, such as P+R parking, cycle path construction, and public transport enhancements, is essential to limit car traffic in larger cities.",energy_transportation,hu,37,1030011,en,hu37,False,True,False,False,False,translated
+hu_38_1010001_en,"When it comes to the redevelopment of urban green spaces like the Liget project in Budapest, conducting an extensive social dialogue is necessary.",environ_protection,hu,38,1010001,en,hu38,False,True,False,False,False,translated
+hu_38_1020001_en,Comprehensive public discussions are required for urban green space redevelopment initiatives like the Liget project in Budapest.,environ_protection,hu,38,1020001,en,hu38,False,True,False,False,False,translated
+hu_38_1030001_en,"A broad social dialogue is essential for the redevelopment of urban green areas, including projects like the Liget project.",environ_protection,hu,38,1030001,en,hu38,False,True,False,False,False,translated
+hu_39_1010011_en,The establishment of an independent ministry dedicated to the environment is required.,environ_protection,hu,39,1010011,en,hu39,False,True,False,False,False,translated
+hu_39_1020011_en,There is a need to create a separate ministry solely focused on environmental matters.,environ_protection,hu,39,1020011,en,hu39,False,True,False,False,False,translated
+hu_39_1030011_en,Establishing an autonomous ministry for environmental issues is necessary.,environ_protection,hu,39,1030011,en,hu39,False,True,False,False,False,translated
+hu_40_1010001_en,The introduction of an animal rights commissioner is warranted.,environ_protection,hu,40,1010001,en,hu40,False,True,False,False,False,translated
+hu_40_1020001_en,There is a need to appoint an animal rights commissioner.,environ_protection,hu,40,1020001,en,hu40,False,True,False,False,False,translated
+hu_40_1030001_en,Establishing an animal rights commissioner is essential.,environ_protection,hu,40,1030001,en,hu40,False,True,False,False,False,translated
