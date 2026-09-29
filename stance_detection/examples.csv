@@ -1,0 +1,75 @@
+statement_id,policy_issue,leaning,stance,statement
+1,open_foreign_policy,left,favor,Supports organization membership such as the EU or the UN or bilateral agreements
+2,open_foreign_policy,left,favor,Supports international organizations and treaties among countries
+3,open_foreign_policy,left,favor,Supports engagement in international development efforts
+4,open_foreign_policy,left,favor,Supports foreign military engagement and cooperation (often with humanitarian or peacekeeping justification)
+5,open_foreign_policy,left,favor,Supports international free trade
+6,open_foreign_policy,right,against,Rejects or is skeptical of organizations such as the EU or the UN and bilateral agreements
+7,open_foreign_policy,right,against,Distrusts or seeks withdrawal from international organizations/treaties
+8,open_foreign_policy,right,against,Shows limited or no commitment to development cooperation
+9,open_foreign_policy,right,against,Prefers minimal or no military involvement abroad
+10,open_foreign_policy,right,against,Favors economic protectionism
+11,liberal_economic_policy,left,against,Favors retaining or expanding public ownership
+12,liberal_economic_policy,left,against,Prefers full public control of healthcare and education
+13,liberal_economic_policy,left,against,Supports stronger regulations to protect public interest
+14,liberal_economic_policy,left,against,Supports active state enforcement to shape and control markets
+15,liberal_economic_policy,left,against,Supports targeted subsidies to protect or stimulate key sectors
+16,liberal_economic_policy,right,favor,Supports privatizing state and semi-public enterprises
+17,liberal_economic_policy,right,favor,Supports granting legal autonomy to basic service institutions
+18,liberal_economic_policy,right,favor,Supports reducing regulations to enhance market freedom
+19,liberal_economic_policy,right,favor,Supports interventions to ensure fair competition
+20,liberal_economic_policy,right,favor,Supports subsidies for specific economic sectors
+21,restrictive_financial_policy,left,against,"Favors public investment, even with deficits"
+22,restrictive_financial_policy,left,against,Accepts higher spending for growth or social goals
+23,restrictive_financial_policy,right,against,Prefers tax cuts to stimulate the economy
+24,restrictive_financial_policy,left,against,Views deficits as acceptable for crisis or structural change
+25,restrictive_financial_policy,right,favor,Supports austerity and spending cuts
+26,restrictive_financial_policy,right,favor,Prefers reduced government expenditures
+27,restrictive_financial_policy,left,favor,May support tax increases to reduce deficits
+28,restrictive_financial_policy,right,favor,Aims to minimize debt and deficits
+29,law_and_order,right,favor,Supports strong public safety measures
+30,law_and_order,right,favor,Favors well-funded police/military/intelligence
+31,law_and_order,right,favor,Supports right to self-defense with personal weapons
+32,law_and_order,right,favor,Values discipline and order in daily life
+33,law_and_order,right,favor,Believes in the deterrent power of criminal law
+34,law_and_order,left,against,Concerned about overreach and civil liberties
+35,law_and_order,left,against,Supports reduced or restructured security forces
+36,law_and_order,left,against,Supports strict gun control
+37,law_and_order,left,against,Values personal freedom and nonconformity
+38,law_and_order,left,against,Prioritizes rehabilitation and root-cause crime prevention
+39,restrictive_migration_policy,right,favor,May favor limited or conditional integration efforts
+40,restrictive_migration_policy,right,favor,Supports limiting immigration and reducing the proportion of foreigners
+41,restrictive_migration_policy,right,favor,Favors strict or selective naturalization requirements
+42,restrictive_migration_policy,right,favor,Favors tighter asylum controls and limited refugee intake
+43,restrictive_migration_policy,right,favor,"Opposes granting political rights to foreigners (e.g., voting rights)"
+44,restrictive_migration_policy,left,against,Supports inclusive and well-funded integration policies
+45,restrictive_migration_policy,left,against,Opposes quotas; favors open or needs-based immigration
+46,restrictive_migration_policy,left,against,Supports easier access to citizenship
+47,restrictive_migration_policy,left,against,Supports humane asylum policies and international refugee obligations
+48,restrictive_migration_policy,left,against,Supports extending certain political rights to long-term foreign residents
+49,expanded_environ_protection,left,favor,Supports strong government mandates and subsidies for environmental measures
+50,expanded_environ_protection,left,favor,Supports use and promotion of renewable energy sources
+51,expanded_environ_protection,left,favor,Favors restrictions on private motor vehicles and promotes public transportation
+52,expanded_environ_protection,left,favor,"Supports biodiversity, animal welfare, and reintroduction of native wild species"
+53,expanded_environ_protection,left,favor,Supports renaturation and conservation projects
+54,expanded_environ_protection,right,against,Opposes strict regulations; favors voluntary or market-based approaches
+55,expanded_environ_protection,right,against,"Prioritizes conventional energy (e.g. nuclear, fossil fuels) for reliability/cost"
+56,expanded_environ_protection,right,against,Opposes restrictions on cars; skeptical of heavy investment in public transit
+57,expanded_environ_protection,right,against,Opposes reintroduction of predators; favors protecting human/livestock interests
+58,expanded_environ_protection,right,against,Opposes costly or disruptive restoration efforts; favors land for economic use
+59,expanded_social_welfare_state,left,favor,Supports broad access to and generous levels of state social benefits
+60,expanded_social_welfare_state,left,favor,Supports maintaining or expanding public social insurance programs
+61,expanded_social_welfare_state,left,favor,May be cautious about overemphasizing private responsibility or savings
+62,expanded_social_welfare_state,left,favor,Views social welfare as a collective responsibility and essential for social justice
+63,expanded_social_welfare_state,right,against,Favors limiting benefits to reduce dependency and control public spending
+64,expanded_social_welfare_state,right,against,Supports scaling back or reforming state-run systems to reduce government role
+65,expanded_social_welfare_state,right,against,"Strongly promotes private savings, pensions, and personal responsibility"
+66,expanded_social_welfare_state,right,against,Views excessive welfare as a disincentive to work and economic productivity
+67,liberal_society,left,favor,Supports individual freedom in life choices and lifestyle
+68,liberal_society,left,favor,Strongly supports privacy rights and protection of personal data
+69,liberal_society,left,favor,Encourages open discussion of taboo or controversial topics
+70,liberal_society,left,favor,Supports separation of religion and state; liberal stance on religious matters
+71,liberal_society,right,against,"Emphasizes traditional norms, moral standards, or social conformity"
+72,liberal_society,right,against,May favor surveillance or regulation in the name of security or public order
+73,liberal_society,right,against,Prefers to maintain social taboos or avoid public discussion of such topics
+74,liberal_society,right,against,"Emphasizes the cultural or moral role of religion, church, or creationist views"
