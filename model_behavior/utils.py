@@ -1,6 +1,11 @@
 # import mantel
 import pandas as pd
 from sklearn.decomposition import PCA
+from datetime import datetime
+import hashlib
+import time
+import copy
+
 
 parties_ches = {"de": {"CDU / CSU":"CDU", "SPD": "SPD", "FDP": "FDP", "GRÜNE": "GRUNEN", "DIE LINKE":"LINKE", "AfD": "AfD"},
                 "nl": {"SP": "SP","DENK": "DENK", "ChristenUnie": "CU", "PVV": "PVV", "VVD": "VVD", "Partij voor de Dieren": "PvdD", "SGP": "SGP",
@@ -121,3 +126,163 @@ def retrieve_template_type():
     template2type = dict(zip(template.template_id.tolist(), template.prompt_type.tolist()))
     template2type_gpt = dict(zip(template_gpt.inversion_id.tolist(), template_gpt.prompt_type.tolist()))
     return template2type, template2type_gpt
+
+def get_experiment_start_date():
+    return datetime.now().strftime("%Y %m %d %H:%M:%S").replace(' ', '_').replace(':', '_')
+
+
+def get_hash(string, algorithm="sha256"):
+    """
+    Calculates the hash of a given string using the specified algorithm.
+    Defaults to SHA-256 if no algorithm is provided.
+    """
+
+    hash_object = getattr(hashlib, algorithm)()
+    hash_object.update(string.encode('utf-8'))
+    return hash_object.hexdigest()
+
+
+def timer(func):
+    """Decorator that prints the runtime of the decorated function"""
+
+    def wrapper_timer(*args, **kwargs):
+        start_time = time.perf_counter()
+        value = func(*args, **kwargs)
+        end_time = time.perf_counter()
+        run_time = end_time - start_time
+        timer_end_message = f"  :):):) Finished {func.__name__!r} in {run_time:.4f} seconds"
+        print(timer_end_message)
+        return value
+
+    return wrapper_timer
+
+def get_prompt_guidelines_manifestos():
+    with open('./data_prompts/mfc_guidelines_short.txt', 'r') as f:
+        data = f.read().replace('\n\n', '|')
+        data = data.replace('\n', ' ')
+        data = data.replace('|', '\n\n')
+
+    return data
+
+
+def format_prompt(prompt_template, statement):
+
+    prompt = copy.deepcopy(prompt_template)
+    # check if prompt is of type list
+    if isinstance(prompt, list):
+        prompt[-1]['content'] = prompt[-1]['content'].format(statement=statement
+            )
+    else:
+        prompt = prompt.format(statement=statement)
+        
+    return prompt
+
+
+class StatementRetriever:
+
+    def __init__(self, dataframe):
+        """
+        Initialize StatementRetriever with a pandas DataFrame.
+        Example usage:
+        retriever = StatementRetriever(dataframe)
+        retriever.get_filtered_statements(statement_type="original", translated=True)
+        retriever.get_filtered_statements(statement_type="paraphrase", translated=True)
+        retriever.get_filtered_statements(statement_type="adversarial", translated=True)
+        if you want to after-wards filter for country-agnostic statements, you can do it like this:
+        df = retriever.get_filtered_statements(statement_type="original", translated=True)
+        retriever = StatementRetriever(df)
+        retriever.get_filtered_statements(statement_type="country-agnostic", translated=True)
+        ...
+
+        Args:
+            dataframe (pd.DataFrame): DataFrame containing statements and IDs.
+        """
+        self.dataframe = dataframe
+        self._prepare_dataframe()
+
+    def _prepare_dataframe(self):
+        """ Prepare the dataframe by extracting relevant information from ID and code columns. """
+        if "ID" in self.dataframe.columns:
+            statement_code = "ID"
+        else:
+            statement_code = "statement_id"
+        
+        split_ids = self.dataframe[statement_code].str.split("_")
+        self.dataframe["statement_code"] = self.dataframe[statement_code]
+        self.dataframe["country_code"] = split_ids.str[0]
+        self.dataframe["statement_id"] = split_ids.str[1]
+        self.dataframe["code"] = split_ids.str[2]
+        self.dataframe["language_code"] = split_ids.str[3]
+        self.dataframe["unique_id"] = self.dataframe["country_code"] + self.dataframe["statement_id"]
+        self.dataframe["original"] = self.dataframe["code"].apply(self.is_original)
+        self.dataframe["negation"] = self.dataframe["code"].apply(self.is_negation)
+        self.dataframe["opposite"] = self.dataframe["code"].apply(self.is_opposite)
+        self.dataframe["paraphrase"] = self.dataframe["code"].apply(self.is_paraphrase)
+        self.dataframe["translated"] = self.dataframe["statement_code"].apply(self.id2translation_status)
+
+    def get_filtered_statements(self, statement_type, translated=False):
+        """
+        Returns filtered statements based on type and translation status.
+
+        Args:
+            statement_type (str): The type of statement to filter (e.g., 'original', 'adversarial').
+            translated (bool): If True, returns statements in English, else in the original language.
+
+        Returns:
+            pd.DataFrame: Filtered DataFrame.
+        """
+
+        # Filter the DataFrame based on the presence of type t
+        filtered_df = self.dataframe
+        if translated:
+            filtered_df = filtered_df[filtered_df['translated'] == 'translated']
+        else:
+            filtered_df = filtered_df[filtered_df['translated'] == 'source']
+        return filtered_df
+
+    def id2translation_status(self, id):
+        """ Map a single code to a translation status. """
+        id = id.split("_")
+        if int(id[-2][6]) == 1 and id[-1] == "en":
+            return "translated"
+        else:
+            return "source"
+
+    def get_english_statements(self):
+        """ Return only statements in English. """
+        return self.dataframe[self.dataframe['translated'] == 'translated']
+
+    def get_source_lang_statements(self):
+        """ Return only statements in the source language. """
+        return self.dataframe[self.dataframe['translated'] == 'source']
+
+    def is_original(self, single_code):
+        # Check for original statement ( = not a paraphrase but the original statement in whatever language)
+        if int(single_code[0]) == 1 and int(single_code[2]) == 0:
+            return True
+        else:
+            return False
+
+    def is_negation(self, single_code):
+        # Check for negation, can be negation of original or any of the paraphrases of the original
+        if int(single_code[4]) == 1:
+            return True
+        else:
+            return False
+
+    def is_opposite(self, single_code):
+        # Check for opposite. can be opposite of original, or an automatically created
+        # paraphrase of manually created opposite
+        if int(single_code[3]) == 1:
+            return True
+        else:
+            return False
+
+    def is_paraphrase(self, single_code):
+        # Check for paraphrase (non-adversarial and adversarial)
+        if int(single_code[2]) > 0:
+            return True
+        else:
+            return False
+
+
